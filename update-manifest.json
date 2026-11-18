@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-11-18T22:25:09.6281765+07:00",
+    "generatedAt":  "2026-11-18T22:33:09.1569679+07:00",
     "apps":  {
                  "TKLScreenPen":  {
                                       "appName":  "TKL Pen",
@@ -14,13 +14,13 @@
                                   },
                  "TKLPdfStudio":  {
                                       "appName":  "TKLPdfStudio (TKL PDF)",
-                                      "latestVersion":  "1.2.4",
+                                      "latestVersion":  "1.2.5",
                                       "publishedAt":  "2026-11-18",
-                                      "releaseNotes":  "Khac phuc loi tao 2 shortcut trung nhau ngoai Desktop, bo sung nut Ghim/Thu gon Ribbon, Resize Kho giay va ho tro cap nhat doc lap tung phan mem.",
+                                      "releaseNotes":  "Khac phuc va nang cap tinh nang Nen \u0026 Toi uu dung luong PDF (4 che do nen thong minh JPEG/FlateDecode, bao cao dung luong truoc/sau khi nen).",
                                       "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio-Setup-Win10-Win11.exe",
-                                      "installerSha256":  "09F02664687778109C3229C728272A12ED52E62DEF0975F81A0ED97770164D27",
+                                      "installerSha256":  "C215882E349617AA6C3D98CDEFE00D1A9F86AB742A2744E2C956E7383CCA4D40",
                                       "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio.exe",
-                                      "portableSha256":  "230F3A0E2D4ADD5FC52F8B77A52E2804BDFB8125AD19318BC5EE30C53A124198"
+                                      "portableSha256":  "415191FB4999B4D7BCF512D1C01AECC91DF351DA72AF615BF7644D982B91E8E4"
                                   }
              }
 }
