@@ -1,16 +1,16 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-11-18T20:21:46.3944002+07:00",
+    "generatedAt":  "2026-11-18T20:51:13.1520006+07:00",
     "apps":  {
                  "TKLScreenPen":  {
                                       "appName":  "TKL Pen",
-                                      "latestVersion":  "1.0.0",
+                                      "latestVersion":  "1.0.1",
                                       "publishedAt":  "2026-11-18",
-                                      "releaseNotes":  "Phien ban on dinh voi bo Logo Trung Kien Landscape (TKL) chinh thuc, ho tro tu dong kiem tra va nang cap phien ban moi qua GitHub.",
+                                      "releaseNotes":  "Ban cap nhat v1.0.1: Sua triet de loi nut Tay (Eraser) xoa muot moi net ve tu do, mui ten, hinh hoc va chu viet; ho tro phim tat PrtSc va tu dong cap nhat OTA qua GitHub.",
                                       "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen-Setup-Win10-Win11.exe",
-                                      "installerSha256":  "F2441F257E2B11F7138EAAEA4853C22E4990D7D0E4D92FFDFD8F761AC6029914",
+                                      "installerSha256":  "470DF7D594EB5B14A71AE05CAB5635989A5E56418904D9D10F2DC67648CA0F08",
                                       "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen.exe",
-                                      "portableSha256":  "BDF7224F484840CBDE0D40109A6C97C94ED401B66A15054A079274FBDDA8FE13"
+                                      "portableSha256":  "B3AF3C44174FE290EA9C18957B3E310F66890B646D691BB838FBCE3C7FBBC95F"
                                   },
                  "TKLPdfStudio":  {
                                       "appName":  "TKLPdfStudio (TKL PDF)",
