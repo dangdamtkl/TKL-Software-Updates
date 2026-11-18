@@ -1,22 +1,22 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-11-18T22:24:42.7022183+07:00",
+    "generatedAt":  "2026-11-18T22:25:09.6281765+07:00",
     "apps":  {
                  "TKLScreenPen":  {
                                       "appName":  "TKL Pen",
-                                      "latestVersion":  "1.2.3",
+                                      "latestVersion":  "1.2.4",
                                       "publishedAt":  "2026-11-18",
-                                      "releaseNotes":  "Bo nut gia lap ban cap nhat trong hop thoai Cap nhat phan mem.",
+                                      "releaseNotes":  "Ban cap nhat v1.2.4: Bo sung nut Bat/Tat Khoi dong cung Windows truc tiep trong cua so Cai dat; sua triet de nut Tay (Eraser) va ho tro phim tat PrtSc.",
                                       "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen-Setup-Win10-Win11.exe",
-                                      "installerSha256":  "4F08DF70728937BCF21E43F5F0D58C12B87A5DB5A1DA03F52EB7E033B6E97F72",
+                                      "installerSha256":  "13A1369858A9FD2DF6E64CE8AA8F0897B6CFB977AAC6E10D74CD4EF642770ECC",
                                       "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen.exe",
-                                      "portableSha256":  "587A10383A9372D7C4D012E16572226B127734EC3B694E6F8E2EF62B7C248683"
+                                      "portableSha256":  "468D2367588421C8978E9DB9BF9540C6B20B30E83BB7F72F7155A21C5D51D5C0"
                                   },
                  "TKLPdfStudio":  {
                                       "appName":  "TKLPdfStudio (TKL PDF)",
                                       "latestVersion":  "1.2.4",
                                       "publishedAt":  "2026-11-18",
-                                      "releaseNotes":  "Bo sung tinh nang Xoay nhieu trang hoac Toan bo trang PDF cung luc (loc trang Chan/Le, Ngang/Doc) va menu chuot phai xoay nhanh tren danh sach trang.",
+                                      "releaseNotes":  "Khac phuc loi tao 2 shortcut trung nhau ngoai Desktop, bo sung nut Ghim/Thu gon Ribbon, Resize Kho giay va ho tro cap nhat doc lap tung phan mem.",
                                       "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio-Setup-Win10-Win11.exe",
                                       "installerSha256":  "09F02664687778109C3229C728272A12ED52E62DEF0975F81A0ED97770164D27",
                                       "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio.exe",
