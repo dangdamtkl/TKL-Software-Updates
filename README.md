@@ -2,11 +2,11 @@
 
 Kho nay cung cap kenh cap nhat OTA qua Internet (GitHub Raw + GitHub Releases) cho 2 phan mem:
 
-1. **TKL PDF (`TKLPdfStudio`)** - Phien ban hien tai: **v1.2.2**
+1. **TKL PDF (`TKLPdfStudio`)** - Phien ban hien tai: **v1.2.3**
    - [Bo cai dat Setup (Win 10/11)](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio-Setup-Win10-Win11.exe)
    - [Ban Portable (.exe)](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio.exe)
 
-2. **TKL Pen (`TKLScreenPen`)** - Phien ban hien tai: **v1.2.2**
+2. **TKL Pen (`TKLScreenPen`)** - Phien ban hien tai: **v1.2.3**
    - [Bo cai dat Setup (Win 10/11)](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen-Setup-Win10-Win11.exe)
    - [Ban Portable (.exe)](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen.exe)
 
