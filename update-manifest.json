@@ -1,26 +1,26 @@
 {
-    "schemaVersion":  1,
-    "generatedAt":  "2026-11-18T22:36:09.0503361+07:00",
-    "apps":  {
-                 "TKLScreenPen":  {
-                                      "appName":  "TKL Pen",
-                                      "latestVersion":  "1.2.4",
-                                      "publishedAt":  "2026-11-18",
-                                      "releaseNotes":  "Ban cap nhat v1.2.4: Bo sung nut Bat/Tat Khoi dong cung Windows truc tiep trong cua so Cai dat; sua triet de nut Tay (Eraser) va ho tro phim tat PrtSc.",
-                                      "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen-Setup-v1.2.4-Win10-Win11.exe",
-                                      "installerSha256":  "0337A3B30D9453977CA5811EF2BECD2F0C29A742821C026B373F57076989B8CD",
-                                      "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen.exe",
-                                      "portableSha256":  "468D2367588421C8978E9DB9BF9540C6B20B30E83BB7F72F7155A21C5D51D5C0"
-                                  },
-                 "TKLPdfStudio":  {
-                                      "appName":  "TKLPdfStudio (TKL PDF)",
-                                      "latestVersion":  "1.2.5",
-                                      "publishedAt":  "2026-11-18",
-                                      "releaseNotes":  "Khac phuc va nang cap tinh nang Nen \u0026 Toi uu dung luong PDF (4 che do nen thong minh JPEG/FlateDecode, bao cao dung luong truoc/sau khi nen).",
-                                      "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio-Setup-v1.2.5-Win10-Win11.exe",
-                                      "installerSha256":  "437B6C86B0280303F91686B5BCF9C61C2A9D08081804925F30AF3B2FE6ED0F9D",
-                                      "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio.exe",
-                                      "portableSha256":  "415191FB4999B4D7BCF512D1C01AECC91DF351DA72AF615BF7644D982B91E8E4"
-                                  }
-             }
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-18T22:54:35.7871986+07:00",
+  "apps": {
+    "TKLScreenPen": {
+      "appName": "TKL Pen",
+      "latestVersion": "1.2.4",
+      "publishedAt": "2026-11-18",
+      "releaseNotes": "Ban cap nhat v1.2.4: Bo sung nut Bat/Tat Khoi dong cung Windows truc tiep trong cua so Cai dat; sua triet de nut Tay (Eraser) va ho tro phim tat PrtSc.",
+      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen-Setup-v1.2.4-Win10-Win11.exe",
+      "installerSha256": "0337A3B30D9453977CA5811EF2BECD2F0C29A742821C026B373F57076989B8CD",
+      "portableExeUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen.exe",
+      "portableSha256": "468D2367588421C8978E9DB9BF9540C6B20B30E83BB7F72F7155A21C5D51D5C0"
+    },
+    "TKLPdfStudio": {
+      "appName": "TKLPdfStudio (TKL PDF)",
+      "latestVersion": "1.2.6",
+      "publishedAt": "2026-11-18",
+      "releaseNotes": "Khac phuc triet de tinh nang Dat lam Trinh doc PDF Mac dinh tren Windows 10 (su dung SHOpenWithDialog tich san Always use, mo dung Default Programs Win 10 va bo sung khoa Registry App Paths/OpenWithList) ma van tuong thich hoan toan Windows 11.",
+      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio-Setup-v1.2.6-Win10-Win11.exe",
+      "installerSha256": "637509FF0CABB11BA939B0A3F45CD537E574DA0069F49286BAC9793D5AEA75BF",
+      "portableExeUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio.exe",
+      "portableSha256": "60F0B097CA2141987A897BB6A11CDAEDC1BE80DC6C9E0E701F7C6BA1CB3403CE"
+    }
+  }
 }
