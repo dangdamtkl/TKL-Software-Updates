@@ -1,26 +1,26 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-11-18T21:34:18.8784574+07:00",
+    "generatedAt":  "2026-11-18T21:59:15.6094262+07:00",
     "apps":  {
                  "TKLScreenPen":  {
                                       "appName":  "TKL Pen",
-                                      "latestVersion":  "1.2.0",
+                                      "latestVersion":  "1.2.1",
                                       "publishedAt":  "2026-11-18",
-                                      "releaseNotes":  "Phien ban on dinh voi bo Logo Trung Kien Landscape (TKL) chinh thuc, ho tro tu dong kiem tra va nang cap phien ban moi qua GitHub.",
+                                      "releaseNotes":  "Khac phuc loi tao 2 shortcut trung nhau ngoai Desktop va ho tro cap nhat doc lap tung phan mem qua GitHub.",
                                       "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen-Setup-Win10-Win11.exe",
-                                      "installerSha256":  "03E2AC4A34A1BA9DE2B3C647170ABB9445DE175BE049CC2C176DDC3F410EA30C",
+                                      "installerSha256":  "730FB48750F2190892BAC72494C45064DF2B7BBCD758EC5EC15198C68E6CD7E3",
                                       "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen.exe",
-                                      "portableSha256":  "986D53D82CDA737D664AB7BD251C0F3D8463CD1A29979DFE3E019FB030B63761"
+                                      "portableSha256":  "6E585EF16D005F23C966792D77F9B311CFFA04D4E2C1FF0B8863867C9D91FC3E"
                                   },
                  "TKLPdfStudio":  {
                                       "appName":  "TKLPdfStudio (TKL PDF)",
-                                      "latestVersion":  "1.2.0",
+                                      "latestVersion":  "1.2.1",
                                       "publishedAt":  "2026-11-18",
-                                      "releaseNotes":  "Bo sung nut Ghim / Bo ghim de thu gon hoac hien thi Menu Ribbon linh hoat va lam noi bat tinh nang Resize / Doi kho giay PDF, dong bo cap nhat OTA qua GitHub.",
+                                      "releaseNotes":  "Khac phuc loi tao 2 shortcut trung nhau ngoai Desktop, bo sung nut Ghim/Thu gon Ribbon, Resize Kho giay va ho tro cap nhat doc lap tung phan mem.",
                                       "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio-Setup-Win10-Win11.exe",
-                                      "installerSha256":  "0D176056AE7793DB689FF40DFB69C42DDB620E25A0DFD47B12F378651971AD1C",
+                                      "installerSha256":  "FF23BB7585D4871C64E003F8765B8C2F4BAA5E20AB0D700887DB115FC02D1449",
                                       "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio.exe",
-                                      "portableSha256":  "E4628D847693BE214BC448E295DED1699F711D05CEA6F0738774D011E345A6F6"
+                                      "portableSha256":  "793B4E08C0B8FB0F473C27BCA4115AB26879FC25CD08B2BCAC4D9C396A182592"
                                   }
              }
 }
