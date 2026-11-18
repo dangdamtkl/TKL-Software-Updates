@@ -1,0 +1,26 @@
+{
+    "schemaVersion":  1,
+    "generatedAt":  "2026-11-18T20:15:16.7722813+07:00",
+    "apps":  {
+                 "TKLScreenPen":  {
+                                      "appName":  "TKL Pen",
+                                      "latestVersion":  "1.0.0",
+                                      "publishedAt":  "2026-11-18",
+                                      "releaseNotes":  "Phien ban on dinh voi bo Logo Trung Kien Landscape (TKL) chinh thuc, ho tro tu dong kiem tra va nang cap phien ban moi qua GitHub.",
+                                      "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen-Setup-Win10-Win11.exe",
+                                      "installerSha256":  "6A6CE55FAF25596D45CEB5119580AF9ED5010B14859A3DAF9CCF6BDAC7A5376E",
+                                      "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen.exe",
+                                      "portableSha256":  "5A0767771BA53E0FD457C1F1ED5C3C47506BE6AF4779ECF5803A7AB73F26A339"
+                                  },
+                 "TKLPdfStudio":  {
+                                      "appName":  "TKLPdfStudio (TKL PDF)",
+                                      "latestVersion":  "1.0.0",
+                                      "publishedAt":  "2026-11-18",
+                                      "releaseNotes":  "Ban phat hanh chuyen nghiep voi giao dien Xem truoc Ban in (Live Print Preview), May in ao TKL PDF Printer, Menu chuot phai Combine/Edit va Tu dong cap nhat OTA qua GitHub.",
+                                      "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio-Setup-Win10-Win11.exe",
+                                      "installerSha256":  "EB1240A8C9393A110BE604FEC7A73CE17F0D89FBB20967D7494B6F3DDCAF81BC",
+                                      "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio.exe",
+                                      "portableSha256":  "EB382A6353111132423D4DC6FF4DC2595BF785C405F62A709D97A7DC0BCCAA48"
+                                  }
+             }
+}
