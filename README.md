@@ -10,4 +10,5 @@ Kho nay cung cap kenh cap nhat OTA qua Internet (GitHub Raw + GitHub Releases) c
    - [Bo cai dat Setup (Win 10/11)](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen-Setup-Win10-Win11.exe)
    - [Ban Portable (.exe)](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen.exe)
 
-- Tep thong bao phien ban (Auto-Update Manifest): `https://raw.githubusercontent.com/dangdamtkl/TKL-Software-Updates/main/update-manifest.json`
+- Tep thong bao phien ban (Auto-Update Manifest): `https://raw.githubusercontent.com/dangdamtkl/TKL-Software-Updates/refs/heads/main/update-manifest.json`
+- Tep du phong (Instant Release Asset): `https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/update-manifest.json`
