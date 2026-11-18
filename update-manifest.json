@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-11-18T22:16:51.4605913+07:00",
+    "generatedAt":  "2026-11-18T22:24:42.7022183+07:00",
     "apps":  {
                  "TKLScreenPen":  {
                                       "appName":  "TKL Pen",
@@ -14,13 +14,13 @@
                                   },
                  "TKLPdfStudio":  {
                                       "appName":  "TKLPdfStudio (TKL PDF)",
-                                      "latestVersion":  "1.2.3",
+                                      "latestVersion":  "1.2.4",
                                       "publishedAt":  "2026-11-18",
-                                      "releaseNotes":  "Bo nut gia lap ban cap nhat, khac phuc triet de loi mo san 2 file/trang PDF khi khoi dong va chi mo 1 cua so duy nhat.",
+                                      "releaseNotes":  "Bo sung tinh nang Xoay nhieu trang hoac Toan bo trang PDF cung luc (loc trang Chan/Le, Ngang/Doc) va menu chuot phai xoay nhanh tren danh sach trang.",
                                       "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio-Setup-Win10-Win11.exe",
-                                      "installerSha256":  "7C7381B6127F1539C52A5A798647E0703E7CA3021D4CDDEE726371B0DABDBFE4",
+                                      "installerSha256":  "09F02664687778109C3229C728272A12ED52E62DEF0975F81A0ED97770164D27",
                                       "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio.exe",
-                                      "portableSha256":  "FE071C6254233C78AB62A8777087FBEB674849A1F788879F411D164E54111778"
+                                      "portableSha256":  "230F3A0E2D4ADD5FC52F8B77A52E2804BDFB8125AD19318BC5EE30C53A124198"
                                   }
              }
 }
