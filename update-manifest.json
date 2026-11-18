@@ -1,26 +1,26 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-11-18T21:59:15.6094262+07:00",
+    "generatedAt":  "2026-11-18T22:10:12.0403137+07:00",
     "apps":  {
                  "TKLScreenPen":  {
                                       "appName":  "TKL Pen",
-                                      "latestVersion":  "1.2.1",
+                                      "latestVersion":  "1.2.2",
                                       "publishedAt":  "2026-11-18",
                                       "releaseNotes":  "Khac phuc loi tao 2 shortcut trung nhau ngoai Desktop va ho tro cap nhat doc lap tung phan mem qua GitHub.",
                                       "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen-Setup-Win10-Win11.exe",
-                                      "installerSha256":  "730FB48750F2190892BAC72494C45064DF2B7BBCD758EC5EC15198C68E6CD7E3",
+                                      "installerSha256":  "2287E50EBCF2DEB920893034BDC06EE0248AF880F4B76423545FFFA64BB61F88",
                                       "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen.exe",
-                                      "portableSha256":  "6E585EF16D005F23C966792D77F9B311CFFA04D4E2C1FF0B8863867C9D91FC3E"
+                                      "portableSha256":  "CB1008230E64FA8716E9726CA086AF9B25FD60758004D077B73DEE80727699DA"
                                   },
                  "TKLPdfStudio":  {
                                       "appName":  "TKLPdfStudio (TKL PDF)",
-                                      "latestVersion":  "1.2.1",
+                                      "latestVersion":  "1.2.2",
                                       "publishedAt":  "2026-11-18",
                                       "releaseNotes":  "Khac phuc loi tao 2 shortcut trung nhau ngoai Desktop, bo sung nut Ghim/Thu gon Ribbon, Resize Kho giay va ho tro cap nhat doc lap tung phan mem.",
                                       "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio-Setup-Win10-Win11.exe",
-                                      "installerSha256":  "FF23BB7585D4871C64E003F8765B8C2F4BAA5E20AB0D700887DB115FC02D1449",
+                                      "installerSha256":  "59A11F8B3A6C49718E9F5E115A8138738EC73DBD15BA7A8606A1C65F00F3CF06",
                                       "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio.exe",
-                                      "portableSha256":  "793B4E08C0B8FB0F473C27BCA4115AB26879FC25CD08B2BCAC4D9C396A182592"
+                                      "portableSha256":  "B9F73630A71729F9DEC0DB87DBE4DD0E2C40D4C5821D754CDBCEA3794D848B65"
                                   }
              }
 }
