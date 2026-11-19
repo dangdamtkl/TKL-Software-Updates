@@ -1,26 +1,26 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-11-19T08:43:58.5989531+07:00",
+    "generatedAt":  "2026-11-19T13:44:06.8004070+07:00",
     "apps":  {
                  "TKLScreenPen":  {
                                       "appName":  "TKL Pen",
-                                      "latestVersion":  "1.2.5",
+                                      "latestVersion":  "1.2.6",
                                       "publishedAt":  "2026-11-19",
-                                      "releaseNotes":  "Ban cap nhat v1.2.5: Ky so Authenticode chinh thuc Trung Kien Landscape (TKL), toi uu tuong thich Windows AppControl/SmartScreen va bo sung trinh cai dat nhanh.",
-                                      "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen-Setup-v1.2.5.exe",
-                                      "installerSha256":  "BECD07734931C6F65ED6AE486EF70FF100131EDA4A26E06938469031D6A6F756",
+                                      "releaseNotes":  "Ban cap nhat v1.2.6: Go bo chu ky tu ky gay loi CERT_E_UNTRUSTEDROOT tren Windows Smart App Control, toi uu install-tkl.ps1 theo duong dan chinh thuc cua Windows Security.",
+                                      "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen-Setup-v1.2.6.exe",
+                                      "installerSha256":  "F59EFE29389C909EEEFEC4C1ED8B13782C2D653AA14061B29B078DE6DFC7334A",
                                       "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen.exe",
-                                      "portableSha256":  "759EEEE4D7DCCA40912FECE35570BCD2086AEB98F7D797DA272B7290A4102D9C"
+                                      "portableSha256":  "0A6834662963A9601950D9217F01EE3285BB55C034483409B1BF561F62038D24"
                                   },
                  "TKLPdfStudio":  {
                                       "appName":  "TKLPdfStudio (TKL PDF)",
-                                      "latestVersion":  "1.2.8",
+                                      "latestVersion":  "1.2.9",
                                       "publishedAt":  "2026-11-19",
-                                      "releaseNotes":  "Ban cap nhat v1.2.8: Ky so Authenticode chinh thuc Trung Kien Landscape (TKL), loai bo PowerShell an khi cai may in ao va toi uu tuong thich Windows AppControl/SmartScreen.",
-                                      "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio-Setup-v1.2.8.exe",
-                                      "installerSha256":  "6296ACDB64E4148CB89D8829CD317F7F581824EEF29CA347DAE2005C5D16FFDC",
+                                      "releaseNotes":  "Ban cap nhat v1.2.9: Go bo chu ky tu ky gay loi CERT_E_UNTRUSTEDROOT tren Windows Smart App Control, loai bo PowerShell an khi cai may in ao.",
+                                      "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio-Setup-v1.2.9.exe",
+                                      "installerSha256":  "B1DE9463E3D6E3CE9A6E31E876DB3F43206F2E946094FA5ECCB176945B40F31E",
                                       "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio.exe",
-                                      "portableSha256":  "8DCC9895FD9D2260BCA931E6C6BB47CAC6E4B70F96F3DB8629D9A570DA85F4A1"
+                                      "portableSha256":  "F69856103FF2EDB82BC16AC048B3D3B5C2AAB170805554EB12F714DF71A4644F"
                                   }
              }
 }

@@ -14,22 +14,36 @@ Write-Host "============================================================" -Foreg
 Write-Host "  TRINH CAI DAT CHINH THUC - TRUNG KIEN LANDSCAPE (TKL)" -ForegroundColor Cyan
 Write-Host "============================================================" -ForegroundColor Cyan
 
-# 1. Tai va cai dat chung chi tin cay TKL
-$cerPath = Join-Path $WorkDir "TKL-Root-CA.cer"
+# 1. Kiem tra trang thai Smart App Control (chi doc, khong sua registry)
+$sacState = $null
 try {
-    Invoke-WebRequest -Uri "$RawBase/TKL-Root-CA.cer?t=$([DateTimeOffset]::UtcNow.ToUnixTimeSeconds())" -OutFile $cerPath -UseBasicParsing
+    $ciProp = Get-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\CI\Policy" -Name "VerifiedAndReputablePolicyState" -ErrorAction SilentlyContinue
+    if ($null -ne $ciProp) {
+        $sacState = [int]$ciProp.VerifiedAndReputablePolicyState
+    }
 } catch {
-    Invoke-WebRequest -Uri "$RelBase/TKL-Root-CA.cer" -OutFile $cerPath -UseBasicParsing
+    $sacState = $null
 }
-Unblock-File -Path $cerPath -ErrorAction SilentlyContinue
 
-Import-Certificate -FilePath $cerPath -CertStoreLocation "Cert:\CurrentUser\TrustedPublisher" | Out-Null
-$isAdmin = ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)
-if ($isAdmin) {
-    Import-Certificate -FilePath $cerPath -CertStoreLocation "Cert:\LocalMachine\Root" | Out-Null
-    Import-Certificate -FilePath $cerPath -CertStoreLocation "Cert:\LocalMachine\TrustedPublisher" | Out-Null
+if ($sacState -eq 1 -or $sacState -eq 2) {
+    $sacLabel = if ($sacState -eq 1) { "On (Bat bat buoc)" } else { "Evaluation (Danh gia)" }
+    Write-Host ""
+    Write-Host "[CANH BAO] May tinh nay dang bat Windows Smart App Control ($sacLabel)." -ForegroundColor Yellow
+    Write-Host "Do phan mem chua co chung chi Code Signing thuong mai (DigiCert / Sectigo / Azure Trusted Signing)," -ForegroundColor Yellow
+    Write-Host "Windows Smart App Control se chan chay tep tai ve tu Internet." -ForegroundColor Yellow
+    Write-Host ""
+    Write-Host "Huong dan tiep tuc:" -ForegroundColor White
+    Write-Host "  1. Trong cua so Windows Security -> Smart App Control (vua mo)," -ForegroundColor White
+    Write-Host "     chuyen Smart App Control sang che do Off (Tat)." -ForegroundColor White
+    Write-Host "  2. Quay lai cua so PowerShell nay va nhan Enter de tiep tuc." -ForegroundColor White
+    try {
+        Start-Process "windowsdefender://smartapp"
+    } catch {
+        Write-Host "  (Mo thu cong: Settings -> Privacy & security -> Windows Security -> App & browser control -> Smart App Control)" -ForegroundColor DarkGray
+    }
+    Write-Host ""
+    Read-Host "Nhan Enter sau khi da tat Smart App Control (hoac nhan Ctrl+C de huy)" | Out-Null
 }
-Write-Host "[OK] Da nap chung chi chu ky so Trung Kien Landscape (TKL)." -ForegroundColor Green
 
 # 2. Tai manifest moi nhat
 $manifestJson = $null
