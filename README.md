@@ -3,11 +3,11 @@
 Kho nay cung cap kenh cap nhat OTA qua Internet (GitHub Raw + GitHub Releases) cho 2 phan mem:
 
 1. **TKL PDF (`TKLPdfStudio`)** - Phien ban hien tai: **v1.2.8**
-   - [Bo cai dat Setup v1.2.8 (Win 10/11)](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio-Setup-v1.2.8-Win10-Win11.exe)
+   - [Bo cai dat Setup v1.2.8](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio-Setup-v1.2.8.exe)
    - [Ban Portable (.exe)](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio.exe)
 
 2. **TKL Pen (`TKLScreenPen`)** - Phien ban hien tai: **v1.2.5**
-   - [Bo cai dat Setup v1.2.5 (Win 10/11)](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen-Setup-v1.2.5-Win10-Win11.exe)
+   - [Bo cai dat Setup v1.2.5](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen-Setup-v1.2.5.exe)
    - [Ban Portable (.exe)](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen.exe)
 
 ## Cai dat nhanh cho may bat Windows AppControl / SmartScreen

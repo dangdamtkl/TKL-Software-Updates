@@ -1,24 +1,24 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-11-18T23:19:56.4495063+07:00",
+    "generatedAt":  "2026-11-19T08:43:58.5989531+07:00",
     "apps":  {
                  "TKLScreenPen":  {
                                       "appName":  "TKL Pen",
                                       "latestVersion":  "1.2.5",
-                                      "publishedAt":  "2026-11-18",
+                                      "publishedAt":  "2026-11-19",
                                       "releaseNotes":  "Ban cap nhat v1.2.5: Ky so Authenticode chinh thuc Trung Kien Landscape (TKL), toi uu tuong thich Windows AppControl/SmartScreen va bo sung trinh cai dat nhanh.",
-                                      "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen-Setup-v1.2.5-Win10-Win11.exe",
-                                      "installerSha256":  "C32ADEE99DA4F9D217111C10C57A7088D3523E4459C434E126F90786C0836EC6",
+                                      "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen-Setup-v1.2.5.exe",
+                                      "installerSha256":  "BECD07734931C6F65ED6AE486EF70FF100131EDA4A26E06938469031D6A6F756",
                                       "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen.exe",
                                       "portableSha256":  "759EEEE4D7DCCA40912FECE35570BCD2086AEB98F7D797DA272B7290A4102D9C"
                                   },
                  "TKLPdfStudio":  {
                                       "appName":  "TKLPdfStudio (TKL PDF)",
                                       "latestVersion":  "1.2.8",
-                                      "publishedAt":  "2026-11-18",
+                                      "publishedAt":  "2026-11-19",
                                       "releaseNotes":  "Ban cap nhat v1.2.8: Ky so Authenticode chinh thuc Trung Kien Landscape (TKL), loai bo PowerShell an khi cai may in ao va toi uu tuong thich Windows AppControl/SmartScreen.",
-                                      "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio-Setup-v1.2.8-Win10-Win11.exe",
-                                      "installerSha256":  "D72912C08CECB5ADBF609CF6D1A5BFD1A1EB976FAED49871D939374ABE53C766",
+                                      "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio-Setup-v1.2.8.exe",
+                                      "installerSha256":  "6296ACDB64E4148CB89D8829CD317F7F581824EEF29CA347DAE2005C5D16FFDC",
                                       "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio.exe",
                                       "portableSha256":  "8DCC9895FD9D2260BCA931E6C6BB47CAC6E4B70F96F3DB8629D9A570DA85F4A1"
                                   }
