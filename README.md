@@ -10,8 +10,8 @@ Kho này cung cấp kênh cập nhật OTA qua Internet (GitHub Raw + GitHub Rel
    - [Bộ cài đặt Setup v1.2.10](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen-Setup-v1.2.10.exe)
    - [Bản Portable (.exe)](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen.exe)
 
-3. **TKL Office (`TKLOfficeStudio`)** - Phiên bản hiện tại: **v1.1.1**
-   - [Bộ cài đặt Setup v1.1.1](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLOfficeStudio-Setup-v1.1.1.exe)
+3. **TKL Office (`TKLOfficeStudio`)** - Phiên bản hiện tại: **v1.1.2**
+   - [Bộ cài đặt Setup v1.1.2](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLOfficeStudio-Setup-v1.1.2.exe)
    - [Bản Portable (.exe)](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLOfficeStudio.exe)
 
 ## Cài đặt nhanh qua PowerShell (khuyến nghị)
