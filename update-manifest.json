@@ -1,46 +1,46 @@
 {
-    "schemaVersion":  1,
-    "generatedAt":  "2026-11-22T22:11:45.8457261+07:00",
-    "apps":  {
-                 "TKLScreenPen":  {
-                                      "appName":  "TKL Pen",
-                                      "latestVersion":  "1.2.10",
-                                      "publishedAt":  "2026-11-22",
-                                      "releaseNotes":  "Bản cập nhật v1.2.10: Khắc phục lỗi khi đóng và mở lại hộp thoại cập nhật đang tải (tự động gắn lại đúng tiến trình tải nền hiện tại, không còn lỗi xung đột tệp .part), bổ sung nút Hủy tải và tách luồng tải gói lớn không giới hạn thời gian 25 giây.",
-                                      "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen-Setup-v1.2.10.exe",
-                                      "installerSha256":  "5CCCA1FD5D6FBD4C9EFF0B1D2B58A5D3689D7CCAEBBA18AE26B4CD99F2E3301B",
-                                      "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen.exe",
-                                      "portableSha256":  "143B99A6490C3F0B2316B8377C7C66D5A7701F0E235AA93BEE8B25F0ADD0E604"
-                                  },
-                 "TKLPdfStudio":  {
-                                      "appName":  "TKLPdfStudio (TKL PDF)",
-                                      "latestVersion":  "1.3.0",
-                                      "publishedAt":  "2026-11-22",
-                                      "releaseNotes":  "Bản cập nhật v1.3.0: Khắc phục lỗi trắng trang khi thu nhỏ/phóng to bản vẽ CAD khổ lớn (kết xuất PDFium nền trắng đục, giữ ảnh khi zoom, gỡ DropShadowEffect shader, sửa hướng khổ giấy xoay 90°/270° và mở rộng dải zoom 10%–600%); khắc phục lỗi đóng và mở lại hộp thoại cập nhật đang tải, bổ sung nút Hủy tải và tải nền an toàn.",
-                                      "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio-Setup-v1.3.0.exe",
-                                      "installerSha256":  "3C12B649D8D6442E123ADCEF335C4206EA74C6CC69B8DFBA03BDE01A7D41D141",
-                                      "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio.exe",
-                                      "portableSha256":  "4D0816DDAE8913161A82B3E6BEB4CE859E54C1A696F02C2AF8D8B14BD1055EB4"
-                                  },
-                 "TKLOfficeStudio":  {
-                                         "appName":  "TKLOfficeStudio (TKL Office)",
-                                         "latestVersion":  "1.1.3",
-                                         "publishedAt":  "2026-11-22",
-                                         "releaseNotes":  "Bản cập nhật v1.1.3: Khắc phục lỗi hiển thị và lệch khung viền ô khi nhấn dấu \u0027=\u0027 để nhập công thức trong Excel (loại bỏ viền xanh focus đè khung, căn chỉnh chuẩn khít kích thước ô và tự giãn rộng theo độ dài công thức); hoàn thiện chọn cả cột/cả hàng (A:A, 1:1), phím tắt \u0027+\u0027, đồng bộ Formula Bar, tự theo dõi khi cuộn trang, lọc gợi ý hàm theo tiền tố và phím tắt Alt+=.",
-                                         "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLOfficeStudio-Setup-v1.1.3.exe",
-                                         "installerSha256":  "3052889E62CFD6ED864D34D60EFA3D3B73818095213EF1C704C9BF543B6F5EBF",
-                                         "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLOfficeStudio.exe",
-                                         "portableSha256":  "3B9B0E3DF8C0FE8FC25BCF4FF3B0EAAC278F3B341FDCA22BEAFB3DA01A21723B"
-                                     },
-                 "TKLWatermarkPro":  {
-                                         "appName":  "TKL Watermark Pro (TKL Mark)",
-                                         "latestVersion":  "1.1.0",
-                                         "publishedAt":  "2026-11-22",
-                                         "releaseNotes":  "Bản cập nhật v1.1.0: Đồng bộ biểu tượng nhận diện thương hiệu TKL (khung bo trắng, logo TKL và nhãn góc WM màu cam hổ phách), rút gọn tên shortcut ngoài Desktop thành \u0027TKL Mark\u0027 hiển thị gọn 1 dòng, bổ sung hệ thống tự động cập nhật OTA tải nền an toàn (xác minh SHA-256, nút Hủy tải) và hộp thoại Giới thiệu \u0026 Thông tin bản quyền kèm Giấy phép Mã nguồn mở.",
-                                         "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLWatermarkPro-Setup-v1.1.0.exe",
-                                         "installerSha256":  "D6905B0135F1B6EAC10995C191F5DA9E265C8E6AC78B400E1D4C8305BDEE573A",
-                                         "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLWatermarkPro.exe",
-                                         "portableSha256":  "B25E9D508270A17D9DCE16088A8F02D4AE8E4B1F2F4730B1ACE82E7D76D8B188"
-                                     }
-             }
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-22T23:07:09.4404116+07:00",
+  "apps": {
+    "TKLScreenPen": {
+      "appName": "TKL Pen",
+      "latestVersion": "1.2.10",
+      "publishedAt": "2026-11-22",
+      "releaseNotes": "Bản cập nhật v1.2.10: Khắc phục lỗi khi đóng và mở lại hộp thoại cập nhật đang tải (tự động gắn lại đúng tiến trình tải nền hiện tại, không còn lỗi xung đột tệp .part), bổ sung nút Hủy tải và tách luồng tải gói lớn không giới hạn thời gian 25 giây.",
+      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen-Setup-v1.2.10.exe",
+      "installerSha256": "5CCCA1FD5D6FBD4C9EFF0B1D2B58A5D3689D7CCAEBBA18AE26B4CD99F2E3301B",
+      "portableExeUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen.exe",
+      "portableSha256": "143B99A6490C3F0B2316B8377C7C66D5A7701F0E235AA93BEE8B25F0ADD0E604"
+    },
+    "TKLPdfStudio": {
+      "appName": "TKLPdfStudio (TKL PDF)",
+      "latestVersion": "2.1.0",
+      "publishedAt": "2026-11-22",
+      "releaseNotes": "Bản cập nhật v2.1.0: Nâng cấp toàn diện lõi xử lý PDF (PDFsharp-WPF 6.2.4, PDFium chromium/8165, mã hóa AES-256, Working Copy Undo/Redo thống nhất); bổ sung chú thích chuẩn ISO /Annots & XFDF, tầng CAD OCG, Bookmarks, Đính kèm, Tìm kiếm NFC/ReDoS, đo bóc bản vẽ CAD có bắt điểm & đơn vị ha, so sánh PDF & nén thông minh; viewport ảo hóa High-DPI và in vector N-Up/Poster; chỉnh sửa nội dung gốc & Redaction xóa vĩnh viễn cấp content-stream; OCR tiếng Việt ngoại tuyến (Tesseract 5) & biểu mẫu AcroForm; chuyển đổi Office (RTF/DOCX/XLSX/MD) & xử lý hàng loạt; ký số X.509 (CAdES-BES/USB Token/PFX/TSA/LTV) & chuẩn PDF/A-2b; giao diện Sáng/Tối, 20 tệp mở gần đây (MRU), 100% Accessibility, ghi log lỗi có cấu trúc và tối ưu bộ nhớ.",
+      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio-Setup-v2.1.0.exe",
+      "installerSha256": "167C6A2857E09A590ABBDAB95E9981178A0B8D4B5F42F21FE74445CFB0690FD0",
+      "portableExeUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio.exe",
+      "portableSha256": "9856AA23131A426C210CC0C2A0AB15268137A5B6A8332797875DD5207819C777"
+    },
+    "TKLOfficeStudio": {
+      "appName": "TKLOfficeStudio (TKL Office)",
+      "latestVersion": "1.1.3",
+      "publishedAt": "2026-11-22",
+      "releaseNotes": "Bản cập nhật v1.1.3: Khắc phục lỗi hiển thị và lệch khung viền ô khi nhấn dấu '=' để nhập công thức trong Excel (loại bỏ viền xanh focus đè khung, căn chỉnh chuẩn khít kích thước ô và tự giãn rộng theo độ dài công thức); hoàn thiện chọn cả cột/cả hàng (A:A, 1:1), phím tắt '+', đồng bộ Formula Bar, tự theo dõi khi cuộn trang, lọc gợi ý hàm theo tiền tố và phím tắt Alt+=.",
+      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLOfficeStudio-Setup-v1.1.3.exe",
+      "installerSha256": "3052889E62CFD6ED864D34D60EFA3D3B73818095213EF1C704C9BF543B6F5EBF",
+      "portableExeUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLOfficeStudio.exe",
+      "portableSha256": "3B9B0E3DF8C0FE8FC25BCF4FF3B0EAAC278F3B341FDCA22BEAFB3DA01A21723B"
+    },
+    "TKLWatermarkPro": {
+      "appName": "TKL Watermark Pro (TKL Mark)",
+      "latestVersion": "1.1.0",
+      "publishedAt": "2026-11-22",
+      "releaseNotes": "Bản cập nhật v1.1.0: Đồng bộ biểu tượng nhận diện thương hiệu TKL (khung bo trắng, logo TKL và nhãn góc WM màu cam hổ phách), rút gọn tên shortcut ngoài Desktop thành 'TKL Mark' hiển thị gọn 1 dòng, bổ sung hệ thống tự động cập nhật OTA tải nền an toàn (xác minh SHA-256, nút Hủy tải) và hộp thoại Giới thiệu & Thông tin bản quyền kèm Giấy phép Mã nguồn mở.",
+      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLWatermarkPro-Setup-v1.1.0.exe",
+      "installerSha256": "D6905B0135F1B6EAC10995C191F5DA9E265C8E6AC78B400E1D4C8305BDEE573A",
+      "portableExeUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLWatermarkPro.exe",
+      "portableSha256": "B25E9D508270A17D9DCE16088A8F02D4AE8E4B1F2F4730B1ACE82E7D76D8B188"
+    }
+  }
 }
