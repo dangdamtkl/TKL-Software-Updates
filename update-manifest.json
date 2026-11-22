@@ -1,26 +1,36 @@
 {
-  "schemaVersion": 1,
-  "generatedAt": "2026-11-22T11:48:38.5808102+07:00",
-  "apps": {
-    "TKLScreenPen": {
-      "appName": "TKL Pen",
-      "latestVersion": "1.2.10",
-      "publishedAt": "2026-11-22",
-      "releaseNotes": "Bản cập nhật v1.2.10: Khắc phục lỗi khi đóng và mở lại hộp thoại cập nhật đang tải (tự động gắn lại đúng tiến trình tải nền hiện tại, không còn lỗi xung đột tệp .part), bổ sung nút Hủy tải và tách luồng tải gói lớn không giới hạn thời gian 25 giây.",
-      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen-Setup-v1.2.10.exe",
-      "installerSha256": "5CCCA1FD5D6FBD4C9EFF0B1D2B58A5D3689D7CCAEBBA18AE26B4CD99F2E3301B",
-      "portableExeUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen.exe",
-      "portableSha256": "143B99A6490C3F0B2316B8377C7C66D5A7701F0E235AA93BEE8B25F0ADD0E604"
-    },
-    "TKLPdfStudio": {
-      "appName": "TKLPdfStudio (TKL PDF)",
-      "latestVersion": "1.3.0",
-      "publishedAt": "2026-11-22",
-      "releaseNotes": "Bản cập nhật v1.3.0: Khắc phục lỗi trắng trang khi thu nhỏ/phóng to bản vẽ CAD khổ lớn (kết xuất PDFium nền trắng đục, giữ ảnh khi zoom, gỡ DropShadowEffect shader, sửa hướng khổ giấy xoay 90°/270° và mở rộng dải zoom 10%–600%); khắc phục lỗi đóng và mở lại hộp thoại cập nhật đang tải, bổ sung nút Hủy tải và tải nền an toàn.",
-      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio-Setup-v1.3.0.exe",
-      "installerSha256": "3C12B649D8D6442E123ADCEF335C4206EA74C6CC69B8DFBA03BDE01A7D41D141",
-      "portableExeUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio.exe",
-      "portableSha256": "4D0816DDAE8913161A82B3E6BEB4CE859E54C1A696F02C2AF8D8B14BD1055EB4"
-    }
-  }
+    "schemaVersion":  1,
+    "generatedAt":  "2026-11-22T15:29:49.7795423+07:00",
+    "apps":  {
+                 "TKLScreenPen":  {
+                                      "appName":  "TKL Pen",
+                                      "latestVersion":  "1.2.10",
+                                      "publishedAt":  "2026-11-22",
+                                      "releaseNotes":  "Bản cập nhật v1.2.10: Khắc phục lỗi khi đóng và mở lại hộp thoại cập nhật đang tải (tự động gắn lại đúng tiến trình tải nền hiện tại, không còn lỗi xung đột tệp .part), bổ sung nút Hủy tải và tách luồng tải gói lớn không giới hạn thời gian 25 giây.",
+                                      "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen-Setup-v1.2.10.exe",
+                                      "installerSha256":  "5CCCA1FD5D6FBD4C9EFF0B1D2B58A5D3689D7CCAEBBA18AE26B4CD99F2E3301B",
+                                      "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen.exe",
+                                      "portableSha256":  "143B99A6490C3F0B2316B8377C7C66D5A7701F0E235AA93BEE8B25F0ADD0E604"
+                                  },
+                 "TKLPdfStudio":  {
+                                      "appName":  "TKLPdfStudio (TKL PDF)",
+                                      "latestVersion":  "1.3.0",
+                                      "publishedAt":  "2026-11-22",
+                                      "releaseNotes":  "Bản cập nhật v1.3.0: Khắc phục lỗi trắng trang khi thu nhỏ/phóng to bản vẽ CAD khổ lớn (kết xuất PDFium nền trắng đục, giữ ảnh khi zoom, gỡ DropShadowEffect shader, sửa hướng khổ giấy xoay 90°/270° và mở rộng dải zoom 10%–600%); khắc phục lỗi đóng và mở lại hộp thoại cập nhật đang tải, bổ sung nút Hủy tải và tải nền an toàn.",
+                                      "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio-Setup-v1.3.0.exe",
+                                      "installerSha256":  "3C12B649D8D6442E123ADCEF335C4206EA74C6CC69B8DFBA03BDE01A7D41D141",
+                                      "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio.exe",
+                                      "portableSha256":  "4D0816DDAE8913161A82B3E6BEB4CE859E54C1A696F02C2AF8D8B14BD1055EB4"
+                                  },
+                 "TKLOfficeStudio":  {
+                                         "appName":  "TKLOfficeStudio (TKL Office)",
+                                         "latestVersion":  "1.1.1",
+                                         "publishedAt":  "2026-11-22",
+                                         "releaseNotes":  "Bản cập nhật v1.1.1: Thiết kế lại thanh menu Ribbon chuẩn Microsoft Office 365 khắc phục triệt để lỗi che chữ, bổ sung menu Cập nhật phần mềm OTA tải nền an toàn, hộp thoại Giới thiệu tác giả \u0026 bản quyền giống TKL Pen và TKL PDF, cùng hệ thống nâng phiên bản tự động khi phát hành.",
+                                         "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLOfficeStudio-Setup-v1.1.1.exe",
+                                         "installerSha256":  "C25979EBF420D77F43473935E3F90476C82CE0AE3E274834E83CB7F28E66DFBE",
+                                         "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLOfficeStudio.exe",
+                                         "portableSha256":  "03D99DE592F61D1DAED35108A70639E53BB952DD6189CC1252D7160D9229447E"
+                                     }
+             }
 }

@@ -1,5 +1,5 @@
 param(
-    [ValidateSet("Prompt", "All", "Pen", "Pdf")]
+    [ValidateSet("Prompt", "All", "Pen", "Pdf", "Office")]
     [string]$App = "Prompt"
 )
 
@@ -59,11 +59,13 @@ if ($App -eq "Prompt") {
     Write-Host "Chon phan mem muon cai dat:" -ForegroundColor Yellow
     Write-Host "  [1] TKL Pen (v$($manifest.apps.TKLScreenPen.latestVersion))"
     Write-Host "  [2] TKL PDF (v$($manifest.apps.TKLPdfStudio.latestVersion))"
-    Write-Host "  [3] Ca 2 phan mem (Mac dinh)"
-    $choice = Read-Host "Nhap lua chon (1/2/3)"
+    Write-Host "  [3] TKL Office (v$($manifest.apps.TKLOfficeStudio.latestVersion))"
+    Write-Host "  [4] Ca 3 phan mem (Mac dinh)"
+    $choice = Read-Host "Nhap lua chon (1/2/3/4)"
     $App = switch ($choice.Trim()) {
         "1" { "Pen" }
         "2" { "Pdf" }
+        "3" { "Office" }
         default { "All" }
     }
 }
@@ -71,9 +73,11 @@ if ($App -eq "Prompt") {
 $targets = @()
 if ($App -eq "All" -or $App -eq "Pen") { $targets += "TKLScreenPen" }
 if ($App -eq "All" -or $App -eq "Pdf") { $targets += "TKLPdfStudio" }
+if ($App -eq "All" -or $App -eq "Office") { $targets += "TKLOfficeStudio" }
 
 foreach ($key in $targets) {
     $entry = $manifest.apps.$key
+    if (-not $entry) { continue }
     $url = $entry.installerUrl
     $fileName = [System.IO.Path]::GetFileName($url)
     $dstExe = Join-Path $WorkDir $fileName
