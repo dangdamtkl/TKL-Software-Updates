@@ -6,8 +6,8 @@ Kho nay cung cap kenh cap nhat OTA qua Internet (GitHub Raw + GitHub Releases) c
    - [Bo cai dat Setup v1.2.9](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio-Setup-v1.2.9.exe)
    - [Ban Portable (.exe)](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio.exe)
 
-2. **TKL Pen (`TKLScreenPen`)** - Phien ban hien tai: **v1.2.7**
-   - [Bo cai dat Setup v1.2.7](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen-Setup-v1.2.7.exe)
+2. **TKL Pen (`TKLScreenPen`)** - Phien ban hien tai: **v1.2.8**
+   - [Bo cai dat Setup v1.2.8](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen-Setup-v1.2.8.exe)
    - [Ban Portable (.exe)](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen.exe)
 
 ## Cai dat nhanh qua PowerShell (khuyen nghi)

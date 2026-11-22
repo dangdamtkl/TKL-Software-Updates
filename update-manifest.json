@@ -1,26 +1,26 @@
 {
-    "schemaVersion":  1,
-    "generatedAt":  "2026-11-20T10:21:58.4204882+07:00",
-    "apps":  {
-                 "TKLScreenPen":  {
-                                      "appName":  "TKL Pen",
-                                      "latestVersion":  "1.2.7",
-                                      "publishedAt":  "2026-11-20",
-                                      "releaseNotes":  "Ban cap nhat v1.2.7: Bo sung tinh nang keo dieu chinh khung chup man hinh (phong to, thu nho 8 huong quanh khung va di chuyen khung chup).",
-                                      "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen-Setup-v1.2.7.exe",
-                                      "installerSha256":  "AECDD8445AB604C4FAC0B27F5346901FF3C1ABC0355CFBB0DCB4A1C660C68AA3",
-                                      "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen.exe",
-                                      "portableSha256":  "EC51DE3C7E0885B0DCF4D292A36474414E7EF09BC3AC1FDFF3F4A84B2B9CFC18"
-                                  },
-                 "TKLPdfStudio":  {
-                                      "appName":  "TKLPdfStudio (TKL PDF)",
-                                      "latestVersion":  "1.2.9",
-                                      "publishedAt":  "2026-11-19",
-                                      "releaseNotes":  "Ban cap nhat v1.2.9: Go bo chu ky tu ky gay loi CERT_E_UNTRUSTEDROOT tren Windows Smart App Control, loai bo PowerShell an khi cai may in ao.",
-                                      "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio-Setup-v1.2.9.exe",
-                                      "installerSha256":  "B1DE9463E3D6E3CE9A6E31E876DB3F43206F2E946094FA5ECCB176945B40F31E",
-                                      "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio.exe",
-                                      "portableSha256":  "F69856103FF2EDB82BC16AC048B3D3B5C2AAB170805554EB12F714DF71A4644F"
-                                  }
-             }
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-22T10:55:11.5895026+07:00",
+  "apps": {
+    "TKLScreenPen": {
+      "appName": "TKL Pen",
+      "latestVersion": "1.2.8",
+      "publishedAt": "2026-11-22",
+      "releaseNotes": "Bản cập nhật v1.2.8: Mặc định tích sẵn tùy chọn khởi động cùng Windows khi cài đặt TKL Pen.",
+      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen-Setup-v1.2.8.exe",
+      "installerSha256": "C2C9AA90F956E7CB929D02D043F37EDA70B93B4DD51C5B3F652F5F6143D0DBFD",
+      "portableExeUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen.exe",
+      "portableSha256": "14100B8B3869DEC7A610EF74DB1887D7D0B81BB7E758076E89B4DEB7476A7D69"
+    },
+    "TKLPdfStudio": {
+      "appName": "TKLPdfStudio (TKL PDF)",
+      "latestVersion": "1.2.9",
+      "publishedAt": "2026-11-19",
+      "releaseNotes": "Ban cap nhat v1.2.9: Go bo chu ky tu ky gay loi CERT_E_UNTRUSTEDROOT tren Windows Smart App Control, loai bo PowerShell an khi cai may in ao.",
+      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio-Setup-v1.2.9.exe",
+      "installerSha256": "B1DE9463E3D6E3CE9A6E31E876DB3F43206F2E946094FA5ECCB176945B40F31E",
+      "portableExeUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio.exe",
+      "portableSha256": "F69856103FF2EDB82BC16AC048B3D3B5C2AAB170805554EB12F714DF71A4644F"
+    }
+  }
 }
