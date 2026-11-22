@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-11-22T16:48:11.4606154+07:00",
+    "generatedAt":  "2026-11-22T17:24:48.2119680+07:00",
     "apps":  {
                  "TKLScreenPen":  {
                                       "appName":  "TKL Pen",
@@ -24,13 +24,13 @@
                                   },
                  "TKLOfficeStudio":  {
                                          "appName":  "TKLOfficeStudio (TKL Office)",
-                                         "latestVersion":  "1.1.2",
+                                         "latestVersion":  "1.1.3",
                                          "publishedAt":  "2026-11-22",
-                                         "releaseNotes":  "Bản cập nhật v1.1.2: Nâng cấp màn hình Trang chủ liệt kê tự động các tệp Office mới mở trên Windows kèm bộ lọc và tìm kiếm; sửa triệt để công thức Excel (tính phụ thuộc dây chuyền, dấu phân cách \u0027;\u0027, tên Sheet có dấu/khoảng trắng/\u0027-\u0027, dải cột/hàng nguyên, chọn ô khi nhập hàm, gợi ý cú pháp, F4 $); và bổ sung giao diện Print Preview chuẩn Microsoft Office cho Word, Excel và PowerPoint.",
-                                         "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLOfficeStudio-Setup-v1.1.2.exe",
-                                         "installerSha256":  "7715DF1D3EE1EF8421E980DF35DFAAB4FAE479275F0E8A4E8BC0D9BA14B3B5A6",
+                                         "releaseNotes":  "Bản cập nhật v1.1.3: Khắc phục lỗi hiển thị và lệch khung viền ô khi nhấn dấu \u0027=\u0027 để nhập công thức trong Excel (loại bỏ viền xanh focus đè khung, căn chỉnh chuẩn khít kích thước ô và tự giãn rộng theo độ dài công thức); hoàn thiện chọn cả cột/cả hàng (A:A, 1:1), phím tắt \u0027+\u0027, đồng bộ Formula Bar, tự theo dõi khi cuộn trang, lọc gợi ý hàm theo tiền tố và phím tắt Alt+=.",
+                                         "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLOfficeStudio-Setup-v1.1.3.exe",
+                                         "installerSha256":  "3052889E62CFD6ED864D34D60EFA3D3B73818095213EF1C704C9BF543B6F5EBF",
                                          "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLOfficeStudio.exe",
-                                         "portableSha256":  "B7DA96344BADB7CE1BA87FCCC0658C3BA8CD95D2AC09D168E5354E8FDD6A4C49"
+                                         "portableSha256":  "3B9B0E3DF8C0FE8FC25BCF4FF3B0EAAC278F3B341FDCA22BEAFB3DA01A21723B"
                                      }
              }
 }
