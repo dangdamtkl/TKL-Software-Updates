@@ -1,6 +1,6 @@
 # Kho Phát hành & Tự động Cập nhật Phần mềm - Trung Kiên Landscape (TKL)
 
-Kho này cung cấp kênh cập nhật OTA qua Internet (GitHub Raw + GitHub Releases) cho 3 phần mềm:
+Kho này cung cấp kênh cập nhật OTA qua Internet (GitHub Raw + GitHub Releases) cho 4 phần mềm:
 
 1. **TKL PDF (`TKLPdfStudio`)** - Phiên bản hiện tại: **v1.3.0**
    - [Bộ cài đặt Setup v1.3.0](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio-Setup-v1.3.0.exe)
@@ -13,6 +13,10 @@ Kho này cung cấp kênh cập nhật OTA qua Internet (GitHub Raw + GitHub Rel
 3. **TKL Office (`TKLOfficeStudio`)** - Phiên bản hiện tại: **v1.1.3**
    - [Bộ cài đặt Setup v1.1.3](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLOfficeStudio-Setup-v1.1.3.exe)
    - [Bản Portable (.exe)](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLOfficeStudio.exe)
+
+4. **TKL Mark (`TKLWatermarkPro`)** - Phiên bản hiện tại: **v1.1.0**
+   - [Bộ cài đặt Setup v1.1.0](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLWatermarkPro-Setup-v1.1.0.exe)
+   - [Bản Portable (.exe)](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLWatermarkPro.exe)
 
 ## Cài đặt nhanh qua PowerShell (khuyến nghị)
 

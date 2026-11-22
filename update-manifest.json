@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-11-22T17:24:48.2119680+07:00",
+    "generatedAt":  "2026-11-22T22:11:45.8457261+07:00",
     "apps":  {
                  "TKLScreenPen":  {
                                       "appName":  "TKL Pen",
@@ -31,6 +31,16 @@
                                          "installerSha256":  "3052889E62CFD6ED864D34D60EFA3D3B73818095213EF1C704C9BF543B6F5EBF",
                                          "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLOfficeStudio.exe",
                                          "portableSha256":  "3B9B0E3DF8C0FE8FC25BCF4FF3B0EAAC278F3B341FDCA22BEAFB3DA01A21723B"
+                                     },
+                 "TKLWatermarkPro":  {
+                                         "appName":  "TKL Watermark Pro (TKL Mark)",
+                                         "latestVersion":  "1.1.0",
+                                         "publishedAt":  "2026-11-22",
+                                         "releaseNotes":  "Bản cập nhật v1.1.0: Đồng bộ biểu tượng nhận diện thương hiệu TKL (khung bo trắng, logo TKL và nhãn góc WM màu cam hổ phách), rút gọn tên shortcut ngoài Desktop thành \u0027TKL Mark\u0027 hiển thị gọn 1 dòng, bổ sung hệ thống tự động cập nhật OTA tải nền an toàn (xác minh SHA-256, nút Hủy tải) và hộp thoại Giới thiệu \u0026 Thông tin bản quyền kèm Giấy phép Mã nguồn mở.",
+                                         "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLWatermarkPro-Setup-v1.1.0.exe",
+                                         "installerSha256":  "D6905B0135F1B6EAC10995C191F5DA9E265C8E6AC78B400E1D4C8305BDEE573A",
+                                         "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLWatermarkPro.exe",
+                                         "portableSha256":  "B25E9D508270A17D9DCE16088A8F02D4AE8E4B1F2F4730B1ACE82E7D76D8B188"
                                      }
              }
 }
