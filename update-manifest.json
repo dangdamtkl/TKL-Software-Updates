@@ -1,26 +1,26 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T10:55:11.5895026+07:00",
+  "generatedAt": "2026-11-22T11:09:07.0294568+07:00",
   "apps": {
     "TKLScreenPen": {
       "appName": "TKL Pen",
-      "latestVersion": "1.2.8",
+      "latestVersion": "1.2.9",
       "publishedAt": "2026-11-22",
-      "releaseNotes": "Bản cập nhật v1.2.8: Mặc định tích sẵn tùy chọn khởi động cùng Windows khi cài đặt TKL Pen.",
-      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen-Setup-v1.2.8.exe",
-      "installerSha256": "C2C9AA90F956E7CB929D02D043F37EDA70B93B4DD51C5B3F652F5F6143D0DBFD",
+      "releaseNotes": "Bản cập nhật v1.2.9: Khắc phục lỗi ứng dụng tắt âm thầm và không tự khởi động lại sau khi cập nhật (cả bản cài đặt Setup và bản Portable).",
+      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen-Setup-v1.2.9.exe",
+      "installerSha256": "9866C9F67AFC90E63526B8372FA7D46314056F2FFE3D4139030997BCEB8A4FAE",
       "portableExeUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen.exe",
-      "portableSha256": "14100B8B3869DEC7A610EF74DB1887D7D0B81BB7E758076E89B4DEB7476A7D69"
+      "portableSha256": "1B548255F045C375451AFF3F6362D814453241E1C53AA2630DF09B87336E5042"
     },
     "TKLPdfStudio": {
       "appName": "TKLPdfStudio (TKL PDF)",
-      "latestVersion": "1.2.9",
-      "publishedAt": "2026-11-19",
-      "releaseNotes": "Ban cap nhat v1.2.9: Go bo chu ky tu ky gay loi CERT_E_UNTRUSTEDROOT tren Windows Smart App Control, loai bo PowerShell an khi cai may in ao.",
-      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio-Setup-v1.2.9.exe",
-      "installerSha256": "B1DE9463E3D6E3CE9A6E31E876DB3F43206F2E946094FA5ECCB176945B40F31E",
+      "latestVersion": "1.2.10",
+      "publishedAt": "2026-11-22",
+      "releaseNotes": "Bản cập nhật v1.2.10: Khắc phục lỗi ứng dụng tắt âm thầm và không tự khởi động lại sau khi cập nhật (cả bản cài đặt Setup và bản Portable).",
+      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio-Setup-v1.2.10.exe",
+      "installerSha256": "84582543AF298853BD817C103373BD44DACD59F73F0903D02D08D28758E4263A",
       "portableExeUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio.exe",
-      "portableSha256": "F69856103FF2EDB82BC16AC048B3D3B5C2AAB170805554EB12F714DF71A4644F"
+      "portableSha256": "5610A897A264E21F654A43EBE93E211428DED9D8CF44BF1C447486FDF1F52447"
     }
   }
 }
