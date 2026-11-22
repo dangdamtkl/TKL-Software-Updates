@@ -2,12 +2,12 @@
 
 Kho này cung cấp kênh cập nhật OTA qua Internet (GitHub Raw + GitHub Releases) cho 2 phần mềm:
 
-1. **TKL PDF (`TKLPdfStudio`)** - Phiên bản hiện tại: **v1.2.10**
-   - [Bộ cài đặt Setup v1.2.10](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio-Setup-v1.2.10.exe)
+1. **TKL PDF (`TKLPdfStudio`)** - Phiên bản hiện tại: **v1.3.0**
+   - [Bộ cài đặt Setup v1.3.0](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio-Setup-v1.3.0.exe)
    - [Bản Portable (.exe)](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio.exe)
 
-2. **TKL Pen (`TKLScreenPen`)** - Phiên bản hiện tại: **v1.2.9**
-   - [Bộ cài đặt Setup v1.2.9](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen-Setup-v1.2.9.exe)
+2. **TKL Pen (`TKLScreenPen`)** - Phiên bản hiện tại: **v1.2.10**
+   - [Bộ cài đặt Setup v1.2.10](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen-Setup-v1.2.10.exe)
    - [Bản Portable (.exe)](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen.exe)
 
 ## Cài đặt nhanh qua PowerShell (khuyến nghị)
