@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-11-23T06:52:10.8809951+07:00",
+    "generatedAt":  "2026-11-23T09:15:49.5050752+07:00",
     "apps":  {
                  "TKLScreenPen":  {
                                       "appName":  "TKL Pen",
@@ -24,13 +24,13 @@
                                   },
                  "TKLOfficeStudio":  {
                                          "appName":  "TKLOfficeStudio (TKL Office)",
-                                         "latestVersion":  "2.0.0",
+                                         "latestVersion":  "2.0.1",
                                          "publishedAt":  "2026-11-23",
-                                         "releaseNotes":  "Bản cập nhật v2.0.0: Nâng cấp toàn diện Word, Excel và PowerPoint sau kiểm toán 46 hạng mục. Tăng cường bảo mật (chặn SSRF/URI không an toàn, mã hóa DPAPI cho khóa AI, bắt buộc xác minh SHA-256 và HTTPS khi cập nhật OTA, mã hóa AutoRecover, nhắc lưu trước khi cài đặt); bảo toàn gói OpenXML (.docx/.xlsx/.xlsm/.pptx/.pptm) kèm VBA và loại bỏ phình dung lượng ảnh PPTX; nâng cấp lõi công thức Excel (AST, đồ thị DAG tối ưu sửa ô ~3.75 ms, lan truyền lỗi chuẩn, lịch 1900, Dynamic Array/Spill, PivotTable tính tổng từ dữ liệu gốc); tối ưu hiệu năng Conditional Formatting \u0026 Undo PowerPoint (\u003c1 MB/10 bước); cải thiện in ấn/xuất PDF tiếng Việt (.ttc Cambria, bảng đa dòng, nhiều cột, PrintTitleRows) và nhập PDF/ODS/CSV; bổ sung biểu đồ Histogram/Waterfall/Scatter/Bubble/Treemap 2D, phân tích SVG XML, phát MediaElement khi trình chiếu, lề nhóm Outline +/-, chọn đa vùng/AutoFill 4 hướng/kéo vùng/Data Validation, hợp nhất Data Tools (Xóa trùng có Undo, Subtotals chèn hàng, Consolidate, Fixed Width), Symbol Picker, Paste Special MergeFormat, Multilevel List 9 cấp, Mail Merge giữ định dạng, ghi log xoay vòng và nhãn [Beta] trung thực.",
-                                         "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLOfficeStudio-Setup-v2.0.0.exe",
-                                         "installerSha256":  "164532A091A4057168B17C7B7B64A8EFAFC398AB96B2129D9758518B22D22529",
+                                         "releaseNotes":  "Bản vá v2.0.1: Khắc phục triệt để lỗi hiển thị văn bản ẩn từ Google Dịch / HTML (như \u0027Không tải được hết các kết quả / Thử lại / Đang thử lại...\u0027) khi mở tệp Word (.docx) trong TKL Office. Bổ sung lọc chính xác các thuộc tính chữ ẩn OpenXML (w:vanish, w:webHidden, w:specVanish, cỡ chữ 0pt, kế thừa rStyle/pStyle/basedOn/docDefaults và dấu kết thúc đoạn ẩn), ẩn mã trường phức tạp/trường ẩn (XE/TC/TA/RD/PRIVATE), lọc chữ ẩn và Track Changes đã xóa ở Header/Footer/Comment/Footnote/Endnote, đồng thời giữ nguyên cấu trúc OpenXML gốc khi lưu không chỉnh sửa.",
+                                         "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLOfficeStudio-Setup-v2.0.1.exe",
+                                         "installerSha256":  "F142DB666EE7BA5B15A435CF3C468119BFC38105F57EDAAF196E5D64C2BA6399",
                                          "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLOfficeStudio.exe",
-                                         "portableSha256":  "51B20755511D0BBFB70C8077935C22AC2537831CF9B6412A82377D14347D347F"
+                                         "portableSha256":  "734A1308EBE3B98719F4A3D658EE822F86906D46E8BD4D36AD9687F847F342EE"
                                      },
                  "TKLWatermarkPro":  {
                                          "appName":  "TKL Watermark Pro (TKL Mark)",
