@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T19:39:41.8972036+07:00",
+  "generatedAt": "2026-11-24T20:41:16.3178984+07:00",
   "apps": {
     "TKLScreenPen": {
       "appName": "TKL Pen",
@@ -64,13 +64,13 @@
     },
     "TKLCamera": {
       "appName": "TKL Camera (Android)",
-      "latestVersion": "1.0.2",
+      "latestVersion": "1.0.3",
       "publishedAt": "2026-11-24",
-      "releaseNotes": "Bản vá v1.0.2: Khắc phục nút 'Đóng dấu ảnh sẵn' hiển thị rõ nét trên nền tối, tự động cập nhật ngay danh sách Thư viện & Lịch sử chấm công khi vừa chụp mà không cần bấm làm mới, nâng cấp bản đồ mini đóng dấu dùng nguồn đường phố ArcGIS World Street Map (kèm lưới tọa độ dự phòng không bị chấm GPS đè chữ khi ngoại tuyến), xử lý an toàn vòng đời CameraController chống lỗi khi hộp thoại hệ thống che màn hình và chuẩn hóa định dạng MIME image/jpeg, video/mp4 khi đồng bộ lên TKL Cloud.",
-      "apkUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.2.apk",
-      "apkSha256": "55D2BCAD03B3C5275E05EB2BBDC90A6CA447BD14FA4A487F8F8FF0873F85CAC7",
-      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.2.apk",
-      "installerSha256": "55D2BCAD03B3C5275E05EB2BBDC90A6CA447BD14FA4A487F8F8FF0873F85CAC7"
+      "releaseNotes": "Bản cập nhật v1.0.3: Thu gọn kích thước mặc định của toàn bộ 7 mẫu dấu ảnh theo phong cách Marki gọn nét (mặc định 78%), bổ sung thanh điều khiển trực tiếp Kích thước (55%–135%), Độ mờ nền tem (0% trong suốt – 95%) và Độ rõ tổng thể ngay trên màn hình Camera kèm xem trước trực tiếp (Cỡ / Mờ); chuyển sang mô hình Dự án → Hạng mục đồng bộ theo TKL-QD-032 (chọn hạng mục bằng checkbox, mặc định không ghi nếu chưa chọn) và hiển thị phòng ban – chức danh chuẩn của Công Ty TNHH Cảnh Quan Trung Kiên.",
+      "apkUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.3.apk",
+      "apkSha256": "C1D0EB43D515201F28E6AD0D43F4461F64A24BCA95ABDD5A966FCFFF1FE6985D",
+      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.3.apk",
+      "installerSha256": "C1D0EB43D515201F28E6AD0D43F4461F64A24BCA95ABDD5A966FCFFF1FE6985D"
     }
   }
 }
