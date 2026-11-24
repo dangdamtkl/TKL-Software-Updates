@@ -1,6 +1,6 @@
-# Kho Phát hành & Tự động Cập nhật Phần mềm - Trung Kiên Landscape (TKL)
+# Kho Phát hành & Tự động Cập nhật Phần mềm - Công Ty TNHH Cảnh Quan Trung Kiên (Trung Kiên Landscape / TKL)
 
-Kho này cung cấp kênh cập nhật OTA qua Internet (GitHub Raw + GitHub Releases) cho 6 phần mềm:
+Kho này cung cấp kênh cập nhật OTA qua Internet (GitHub Raw + GitHub Releases) cho 7 phần mềm:
 
 1. **TKL PDF (`TKLPdfStudio`)** - Phiên bản hiện tại: **v2.1.0**
    - [Bộ cài đặt Setup v2.1.0](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio-Setup-v2.1.0.exe)
@@ -26,7 +26,10 @@ Kho này cung cấp kênh cập nhật OTA qua Internet (GitHub Raw + GitHub Rel
    - [Bộ cài đặt Setup v1.0.0](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLMarkiMediaDownloader-Setup-v1.0.0.exe)
    - [Bản Portable (.exe)](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLMarkiMediaDownloader.exe)
 
-## Cài đặt nhanh qua PowerShell (khuyến nghị)
+7. **TKL Camera (Android) (`TKLCamera`)** - Phiên bản hiện tại: **v1.0.1**
+   - [Gói cài đặt Android (.apk) v1.0.1](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.1.apk)
+
+## Cài đặt nhanh phần mềm Windows qua PowerShell (khuyến nghị)
 
 Mở **PowerShell** và chạy 1 dòng lệnh sau để tự động kiểm tra Windows Smart App Control (mở trang cài đặt Windows Security nếu cần), tải bộ cài đặt chính thức, xác minh SHA-256, gỡ Zone.Identifier (`Unblock-File`) và khởi chạy cài đặt:
 

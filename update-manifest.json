@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T15:28:27.9084604+07:00",
+  "generatedAt": "2026-11-24T18:16:48.4079781+07:00",
   "apps": {
     "TKLScreenPen": {
       "appName": "TKL Pen",
@@ -61,6 +61,16 @@
       "installerSha256": "D38CF0A3D321E27A6805A22875AB8D34F303EBE884F67CD46128533C23EF1CD3",
       "portableExeUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLMarkiMediaDownloader.exe",
       "portableSha256": "406E539F7294320F38A6754CE9403B9FDF520A2A15046E38C94ABEFE7D21B5E7"
+    },
+    "TKLCamera": {
+      "appName": "TKL Camera (Android)",
+      "latestVersion": "1.0.1",
+      "publishedAt": "2026-11-24",
+      "releaseNotes": "Phát hành v1.0.1: Ứng dụng chụp ảnh & quay video đóng dấu trực tiếp chuẩn Công Ty TNHH Cảnh Quan Trung Kiên (Trung Kiên Landscape / TKL). Hỗ trợ 7 mẫu đóng dấu (Công trình, Chấm công, Khảo sát cây xanh, Bảo dưỡng, Sự cố, Tối giản, Toàn cảnh), thời gian mạng chống chỉnh sửa (Server + SNTP), tọa độ GPS/địa chỉ/la bàn/bản đồ mini, đóng dấu lại ảnh từ thư viện, lưu song song ảnh gốc, chấm công vào/ra, đồng bộ máy chủ tự chủ PostgreSQL 17 (https://camera.tkl.com.vn), chuyển tiếp nhóm Lark Suite và tự động cập nhật OTA qua GitHub HTTPS kèm xác minh SHA-256.",
+      "apkUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.1.apk",
+      "apkSha256": "FDF5BCBABFCFADDDAC4701312093AE3FB008B926DDE3AA24488F669ED057842A",
+      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.1.apk",
+      "installerSha256": "FDF5BCBABFCFADDDAC4701312093AE3FB008B926DDE3AA24488F669ED057842A"
     }
   }
 }
