@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T23:11:45.2515052+07:00",
+  "generatedAt": "2026-11-24T23:33:54.1580034+07:00",
   "apps": {
     "TKLScreenPen": {
       "appName": "TKL Pen",
@@ -64,13 +64,13 @@
     },
     "TKLCamera": {
       "appName": "TKL Camera (Android)",
-      "latestVersion": "1.0.6",
+      "latestVersion": "1.0.7",
       "publishedAt": "2026-11-24",
-      "releaseNotes": "Bản cập nhật v1.0.6 (Build 7): Bổ sung checkbox chọn nhanh & thanh thao tác hàng loạt (tải ZIP/lưu nhiều ảnh về máy, chia sẻ, xóa) trên cả Web Admin và App Android; áp dụng quy tắc phân quyền ảnh & video mới cho nhân viên (xem & tải toàn bộ ảnh của mình cả hôm nay lẫn lịch sử; chỉ xem & tải ảnh đồng nghiệp cùng nhóm chụp trong hôm nay và chặn xem/tải lịch sử nhóm; cho phép xóa ảnh lưu trên máy nhưng không cho xóa ảnh trên máy chủ nếu chưa được cấp quyền); bổ sung chọn Dự án khi Chấm công trên App Android cùng bộ lọc/cột Dự án và xuất Excel trên Web Admin; khắc phục lỗi tải nền Bản đồ GPS (chuyển sang Google Đường phố/Vệ tinh, Esri & Carto kèm tự động dự phòng, tách điểm gần nhau và danh sách điểm chụp); nâng cấp phân quyền 6 cấp Vai trò TKL-QD-032 kèm nhãn trường rõ ràng; loại bỏ tài khoản/mật khẩu mặc định trên màn Đăng nhập & Tạo tài khoản và khóa cố định địa chỉ máy chủ https://camera.tkl.com.vn.",
-      "apkUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.6.apk",
-      "apkSha256": "91ABBFD2046944B8019D84D5CB130381BD5454E168BEC6DBE9FD5C99DAEF8D32",
-      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.6.apk",
-      "installerSha256": "91ABBFD2046944B8019D84D5CB130381BD5454E168BEC6DBE9FD5C99DAEF8D32"
+      "releaseNotes": "Bản cập nhật v1.0.7 (Build 8): Bổ sung quản lý thành viên theo từng dự án (mời & hủy mời nhân viên) kèm đẩy thông báo tức thời về điện thoại Android và Web Admin; tự động đẩy thông báo thời gian thực cho toàn bộ thành viên cùng dự án khi có nhân viên chụp ảnh/quay video kèm tên người chụp và thời gian chụp; bổ sung biểu tượng chuông và hộp thư Thông báo trên cả App Android (kênh thông báo hệ thống & đồng bộ nền) và Web Admin (SSE thời gian thực + toast); bổ sung 5 chế độ xem ảnh (Lớn, Vừa, Nhỏ, Danh sách, Chi tiết) tự động lưu lựa chọn trên cả App Android (Trên máy & Kho công ty) và Web Admin, giữ nguyên checkbox chọn nhanh và thao tác hàng loạt.",
+      "apkUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.7.apk",
+      "apkSha256": "9F666E7807510980B729AD1D4FF617F48D276573709A440E0CCD01B10E2E4DDE",
+      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.7.apk",
+      "installerSha256": "9F666E7807510980B729AD1D4FF617F48D276573709A440E0CCD01B10E2E4DDE"
     }
   }
 }
