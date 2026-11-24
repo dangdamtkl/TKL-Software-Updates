@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T23:33:54.1580034+07:00",
+  "generatedAt": "2026-11-25T00:15:27.9225052+07:00",
   "apps": {
     "TKLScreenPen": {
       "appName": "TKL Pen",
@@ -64,13 +64,13 @@
     },
     "TKLCamera": {
       "appName": "TKL Camera (Android)",
-      "latestVersion": "1.0.7",
-      "publishedAt": "2026-11-24",
-      "releaseNotes": "Bản cập nhật v1.0.7 (Build 8): Bổ sung quản lý thành viên theo từng dự án (mời & hủy mời nhân viên) kèm đẩy thông báo tức thời về điện thoại Android và Web Admin; tự động đẩy thông báo thời gian thực cho toàn bộ thành viên cùng dự án khi có nhân viên chụp ảnh/quay video kèm tên người chụp và thời gian chụp; bổ sung biểu tượng chuông và hộp thư Thông báo trên cả App Android (kênh thông báo hệ thống & đồng bộ nền) và Web Admin (SSE thời gian thực + toast); bổ sung 5 chế độ xem ảnh (Lớn, Vừa, Nhỏ, Danh sách, Chi tiết) tự động lưu lựa chọn trên cả App Android (Trên máy & Kho công ty) và Web Admin, giữ nguyên checkbox chọn nhanh và thao tác hàng loạt.",
-      "apkUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.7.apk",
-      "apkSha256": "9F666E7807510980B729AD1D4FF617F48D276573709A440E0CCD01B10E2E4DDE",
-      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.7.apk",
-      "installerSha256": "9F666E7807510980B729AD1D4FF617F48D276573709A440E0CCD01B10E2E4DDE"
+      "latestVersion": "1.0.8",
+      "publishedAt": "2026-11-25",
+      "releaseNotes": "Bản cập nhật v1.0.8 (Build 9): Cập nhật bộ biểu tượng thương hiệu TKL Camera mới với logo TKL và huy hiệu máy ảnh nhỏ góc dưới bên phải trên Android Launcher (Adaptive Icon), thông báo và Web Admin; khắc phục triệt để lỗi đổi logo dấu ảnh mặc định và logo tùy chỉnh trong Cài đặt kèm khung xem trước trực tiếp (áp dụng đồng bộ ngay lên màn hình Chụp ảnh và khi xuất ảnh/video); bổ sung nút Chọn tất cả luôn hiển thị sẵn ở thanh công cụ thư viện ảnh trên Web Admin & App Android; mặc định phân nhóm ảnh/video theo trình tự Năm → Tháng → Ngày kèm nút chuyển Theo ngày / Theo tháng / Theo năm và cho phép chọn nhanh cả ngày, cả tháng hoặc cả năm chỉ với một chạm.",
+      "apkUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.8.apk",
+      "apkSha256": "E464A0A42BBF314D7C4F13BF2DC010F252417C5210274413E718D7BF0925B584",
+      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.8.apk",
+      "installerSha256": "E464A0A42BBF314D7C4F13BF2DC010F252417C5210274413E718D7BF0925B584"
     }
   }
 }
