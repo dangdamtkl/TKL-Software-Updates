@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T01:38:25.0659044+07:00",
+  "generatedAt": "2026-11-25T06:27:38.9402769+07:00",
   "apps": {
     "TKLScreenPen": {
       "appName": "TKL Pen",
@@ -64,13 +64,13 @@
     },
     "TKLCamera": {
       "appName": "TKL Camera (Android)",
-      "latestVersion": "1.0.10",
+      "latestVersion": "1.0.11",
       "publishedAt": "2026-11-25",
-      "releaseNotes": "Bản cập nhật v1.0.10 (Build 11): Bổ sung API & giao diện chọn nhóm Lark riêng trực tiếp cho từng dự án trên Web Admin (tải danh sách nhóm Bot TKL Camera đã tham gia hoặc nhập Chat ID, bật/tắt tự động gửi ảnh dự án vào nhóm riêng); hoàn thiện hệ thống sao lưu ảnh/video tự động sang Telegram (tạo Chủ đề Forum riêng theo từng dự án, lọc & đồng bộ thủ công hàng chờ và công tắc bật/tắt trực quan); tối ưu mạnh diện tích hiển thị ảnh/video trong Thư viện trên App Android (thu gọn thanh tiêu đề, tab và thanh điều hướng đáy; gom tìm kiếm, bộ lọc và làm mới vào 1 dòng công cụ gọn; gộp tiêu đề Năm/Tháng thành 1 dải duy nhất kèm nút chọn nhanh Cả năm/Cả tháng/Cả ngày).",
-      "apkUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.10.apk",
-      "apkSha256": "9D4F777A74B4D27EB5FB9D6F6AD41D40298DE4FA5466B6F86F64BCAD000C4E30",
-      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.10.apk",
-      "installerSha256": "9D4F777A74B4D27EB5FB9D6F6AD41D40298DE4FA5466B6F86F64BCAD000C4E30"
+      "releaseNotes": "Bản cập nhật v1.0.11 (Build 12): Bổ sung quản lý trực tiếp Hạng mục công việc cho từng dự án ngay trên App Android (thêm hạng mục mới theo nhóm chuyên ngành, chỉnh sửa tên/nhóm/trạng thái hoạt động, xóa hạng mục và nạp nhanh bộ 20 mẫu chuẩn hoặc từng chuyên ngành); thêm nút lối tắt 'Thêm / bớt' ngay tại bảng chọn Hạng mục trên màn hình Camera để thao tác nhanh tại công trường; hiển thị số lượng hạng mục trên từng thẻ dự án.",
+      "apkUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.11.apk",
+      "apkSha256": "14757FE6EB8AC0404FDD6919B320EDC651D28DCCCE19F50DC3757C80D21EE3D3",
+      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.11.apk",
+      "installerSha256": "14757FE6EB8AC0404FDD6919B320EDC651D28DCCCE19F50DC3757C80D21EE3D3"
     }
   }
 }
