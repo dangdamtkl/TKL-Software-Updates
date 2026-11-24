@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T20:56:17.8267106+07:00",
+  "generatedAt": "2026-11-24T21:36:01.2353929+07:00",
   "apps": {
     "TKLScreenPen": {
       "appName": "TKL Pen",
@@ -64,13 +64,13 @@
     },
     "TKLCamera": {
       "appName": "TKL Camera (Android)",
-      "latestVersion": "1.0.4",
+      "latestVersion": "1.0.5",
       "publishedAt": "2026-11-24",
-      "releaseNotes": "Bản cập nhật v1.0.4: Chia nhỏ và chuẩn hóa danh mục Hạng mục công việc theo 5 chuyên ngành thi công cảnh quan chuẩn TKL (TKL-QT-034 & TKL-QT-038, 20 hạng mục từ Chuẩn bị & Vật tư – Hạ tầng cảnh quan cứng – Cơ điện & Tưới tiêu – Cảnh quan mềm/Cây xanh – Bảo dưỡng & Nghiệm thu); đồng bộ nhóm chuyên ngành thu gọn/mở rộng có bộ đếm trên App Android (tích chọn checkbox, mặc định không ghi nếu chưa chọn) và Web Admin kèm lọc & nạp nhanh từng chuyên ngành.",
-      "apkUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.4.apk",
-      "apkSha256": "6881183CF4B82AA124E456ECAC0D04244DF76B4BE4EEE2375CCDF7AFD22C5CE1",
-      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.4.apk",
-      "installerSha256": "6881183CF4B82AA124E456ECAC0D04244DF76B4BE4EEE2375CCDF7AFD22C5CE1"
+      "releaseNotes": "Bản cập nhật v1.0.5: Bổ sung lối tắt Chọn nhanh dự án ngay trên màn hình Camera (tìm kiếm dự án và bấm 1 chạm Chụp ảnh hoặc Quay video theo đúng dự án); bổ sung giao diện Kho ảnh công ty trực tiếp trong mục Thư viện trên ứng dụng Android cho tài khoản được cấp quyền xem tất cả ảnh (lọc theo dự án, hạng mục, nhân viên, ngày, xem ảnh gốc/đóng dấu, lưu về máy, chia sẻ và xóa khi có quyền); đồng thời bổ sung giao diện mobile đầy đủ cho Web Admin https://camera.tkl.com.vn (thanh điều hướng dưới màn hình, menu trượt, lưới ảnh 2 cột, bộ lọc gọn và lightbox toàn màn hình).",
+      "apkUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.5.apk",
+      "apkSha256": "65067A50E971C06DEA3A22CFDCF0A5388AFDA99707FA0A827944C37A95A370AB",
+      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.5.apk",
+      "installerSha256": "65067A50E971C06DEA3A22CFDCF0A5388AFDA99707FA0A827944C37A95A370AB"
     }
   }
 }
