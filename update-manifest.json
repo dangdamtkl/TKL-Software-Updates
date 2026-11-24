@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T06:27:38.9402769+07:00",
+  "generatedAt": "2026-11-25T06:54:06.0364431+07:00",
   "apps": {
     "TKLScreenPen": {
       "appName": "TKL Pen",
@@ -64,13 +64,13 @@
     },
     "TKLCamera": {
       "appName": "TKL Camera (Android)",
-      "latestVersion": "1.0.11",
+      "latestVersion": "1.0.12",
       "publishedAt": "2026-11-25",
-      "releaseNotes": "Bản cập nhật v1.0.11 (Build 12): Bổ sung quản lý trực tiếp Hạng mục công việc cho từng dự án ngay trên App Android (thêm hạng mục mới theo nhóm chuyên ngành, chỉnh sửa tên/nhóm/trạng thái hoạt động, xóa hạng mục và nạp nhanh bộ 20 mẫu chuẩn hoặc từng chuyên ngành); thêm nút lối tắt 'Thêm / bớt' ngay tại bảng chọn Hạng mục trên màn hình Camera để thao tác nhanh tại công trường; hiển thị số lượng hạng mục trên từng thẻ dự án.",
-      "apkUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.11.apk",
-      "apkSha256": "14757FE6EB8AC0404FDD6919B320EDC651D28DCCCE19F50DC3757C80D21EE3D3",
-      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.11.apk",
-      "installerSha256": "14757FE6EB8AC0404FDD6919B320EDC651D28DCCCE19F50DC3757C80D21EE3D3"
+      "releaseNotes": "Bản cập nhật v1.0.12 (Build 13): Khắc phục lỗi chỉ bật/nạp được cả nhóm hạng mục trên App Android — bổ sung cơ chế bật/tắt 2 chiều toàn bộ từng nhóm chuyên ngành chỉ bằng 1 chạm (chip trạng thái Bật/Tắt + nút Tắt nhóm/Bật nhóm & Xóa cả nhóm) cùng nút Chọn cả nhóm / Bỏ chọn cả nhóm ngay khi chụp ảnh; đồng thời ra mắt khu vực Đóng dấu ảnh hàng loạt dành riêng cho Admin trên Web Admin (/batch-stamp) cho phép chỉnh sửa toàn bộ thông số tem ảnh cho ảnh cũ với giờ tự động tăng dần logic và tọa độ biến thiên động trong phạm vi bản đồ.",
+      "apkUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.12.apk",
+      "apkSha256": "A71ADAF79312BA7078468F609657BAFF9FF02CA42464122F66381E39EEC2AD1F",
+      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.12.apk",
+      "installerSha256": "A71ADAF79312BA7078468F609657BAFF9FF02CA42464122F66381E39EEC2AD1F"
     }
   }
 }
