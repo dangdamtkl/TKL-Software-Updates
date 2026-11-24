@@ -1,5 +1,5 @@
 param(
-    [ValidateSet("Prompt", "All", "Pen", "Pdf", "Office", "Mark", "Watermark")]
+    [ValidateSet("Prompt", "All", "Pen", "Pdf", "Office", "Mark", "Watermark", "Lark", "Marki")]
     [string]$App = "Prompt"
 )
 
@@ -61,13 +61,17 @@ if ($App -eq "Prompt") {
     Write-Host "  [2] TKL PDF (v$($manifest.apps.TKLPdfStudio.latestVersion))"
     Write-Host "  [3] TKL Office (v$($manifest.apps.TKLOfficeStudio.latestVersion))"
     Write-Host "  [4] TKL Mark - Watermark Pro (v$($manifest.apps.TKLWatermarkPro.latestVersion))"
-    Write-Host "  [5] Ca 4 phan mem (Mac dinh)"
-    $choice = Read-Host "Nhap lua chon (1/2/3/4/5)"
+    Write-Host "  [5] TKL Lark - Tai anh nhom Lark (v$($manifest.apps.TKLLarkImageDownloader.latestVersion))"
+    Write-Host "  [6] TKL Marki - Tai anh & video Marki (v$($manifest.apps.TKLMarkiMediaDownloader.latestVersion))"
+    Write-Host "  [7] Ca 6 phan mem (Mac dinh)"
+    $choice = Read-Host "Nhap lua chon (1/2/3/4/5/6/7)"
     $App = switch ($choice.Trim()) {
         "1" { "Pen" }
         "2" { "Pdf" }
         "3" { "Office" }
         "4" { "Mark" }
+        "5" { "Lark" }
+        "6" { "Marki" }
         default { "All" }
     }
 }
@@ -77,6 +81,8 @@ if ($App -eq "All" -or $App -eq "Pen") { $targets += "TKLScreenPen" }
 if ($App -eq "All" -or $App -eq "Pdf") { $targets += "TKLPdfStudio" }
 if ($App -eq "All" -or $App -eq "Office") { $targets += "TKLOfficeStudio" }
 if ($App -eq "All" -or $App -eq "Mark" -or $App -eq "Watermark") { $targets += "TKLWatermarkPro" }
+if ($App -eq "All" -or $App -eq "Lark") { $targets += "TKLLarkImageDownloader" }
+if ($App -eq "All" -or $App -eq "Marki") { $targets += "TKLMarkiMediaDownloader" }
 
 foreach ($key in $targets) {
     $entry = $manifest.apps.$key
