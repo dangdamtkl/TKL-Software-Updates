@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T00:46:16.3486030+07:00",
+  "generatedAt": "2026-11-25T01:38:25.0659044+07:00",
   "apps": {
     "TKLScreenPen": {
       "appName": "TKL Pen",
@@ -64,13 +64,13 @@
     },
     "TKLCamera": {
       "appName": "TKL Camera (Android)",
-      "latestVersion": "1.0.9",
+      "latestVersion": "1.0.10",
       "publishedAt": "2026-11-25",
-      "releaseNotes": "Bản cập nhật v1.0.9 (Build 10): Bổ sung cài đặt Ca làm việc chấm công theo dự án (giờ vào/ra, nghỉ giữa ca, phút trễ/sớm cho phép, ngưỡng tăng ca) tự động tính Đi muộn / Về sớm / Tăng ca và giờ công ròng trên Web Admin, CSV Excel & App Android; bổ sung cài đặt Khu vực GPS chụp ảnh & sai lệch vị trí cho phép (mét) trên bản đồ Web Admin hoặc ghim ngay bằng GPS công trường trên điện thoại, hỗ trợ cảnh báo hoặc bắt buộc đứng trong vùng mới cho chấm công Vào/Ra ca; bổ sung tính năng Tạo dự án mới (kèm tùy chọn nạp sẵn 20 hạng mục chuẩn, ca mặc định, ghim GPS hiện tại) và Mời / gỡ nhân viên vào dự án trực tiếp ngay trên App Android (đẩy thông báo tức thời); tối ưu thu gọn thanh công cụ & bộ lọc Thư viện ảnh trên App Android & Web Admin để mở rộng tối đa diện tích hiển thị ảnh/video.",
-      "apkUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.9.apk",
-      "apkSha256": "8674452210502562DE65CF7093121F0982E56A568488B861D9606C705C087326",
-      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.9.apk",
-      "installerSha256": "8674452210502562DE65CF7093121F0982E56A568488B861D9606C705C087326"
+      "releaseNotes": "Bản cập nhật v1.0.10 (Build 11): Bổ sung API & giao diện chọn nhóm Lark riêng trực tiếp cho từng dự án trên Web Admin (tải danh sách nhóm Bot TKL Camera đã tham gia hoặc nhập Chat ID, bật/tắt tự động gửi ảnh dự án vào nhóm riêng); hoàn thiện hệ thống sao lưu ảnh/video tự động sang Telegram (tạo Chủ đề Forum riêng theo từng dự án, lọc & đồng bộ thủ công hàng chờ và công tắc bật/tắt trực quan); tối ưu mạnh diện tích hiển thị ảnh/video trong Thư viện trên App Android (thu gọn thanh tiêu đề, tab và thanh điều hướng đáy; gom tìm kiếm, bộ lọc và làm mới vào 1 dòng công cụ gọn; gộp tiêu đề Năm/Tháng thành 1 dải duy nhất kèm nút chọn nhanh Cả năm/Cả tháng/Cả ngày).",
+      "apkUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.10.apk",
+      "apkSha256": "9D4F777A74B4D27EB5FB9D6F6AD41D40298DE4FA5466B6F86F64BCAD000C4E30",
+      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.10.apk",
+      "installerSha256": "9D4F777A74B4D27EB5FB9D6F6AD41D40298DE4FA5466B6F86F64BCAD000C4E30"
     }
   }
 }
