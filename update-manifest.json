@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T08:07:56.0217606+07:00",
+  "generatedAt": "2026-11-25T08:29:04.3206363+07:00",
   "apps": {
     "TKLScreenPen": {
       "appName": "TKL Pen",
@@ -64,13 +64,13 @@
     },
     "TKLCamera": {
       "appName": "TKL Camera (Android)",
-      "latestVersion": "1.0.16",
+      "latestVersion": "1.0.17",
       "publishedAt": "2026-11-25",
-      "releaseNotes": "Bản cập nhật v1.0.16 (Build 17): Bổ sung cơ chế dự án mặc định toàn công ty và thiết lập mặc định dự án Trung Kiên Landscape để mọi nhân viên đang hoạt động có thể chọn và chụp ảnh đóng dấu, chấm công ngay mà không cần mời vào dự án; tối ưu chống tràn chữ ô chọn dự án trên màn hình nhỏ; vẫn giữ cách ly nghiêm ngặt các dự án riêng khác, siết chặt quyền chỉnh sửa/xóa dự án mặc định và bảo vệ quyền riêng tư số điện thoại.",
-      "apkUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.16.apk",
-      "apkSha256": "837AB7B6D6D583489E553EF1138F57BD7EE842F455B981F64B22431FA87A4A5A",
-      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.16.apk",
-      "installerSha256": "837AB7B6D6D583489E553EF1138F57BD7EE842F455B981F64B22431FA87A4A5A"
+      "releaseNotes": "Bản cập nhật v1.0.17 (Build 18): Tách nhỏ và sắp xếp lại hệ thống phân quyền thành 4 nhóm 13 quyền chi tiết (Tạo/Sửa/Xóa dự án, Quản lý hạng mục, Mời thành viên, Cấu hình ca & GPS, Xem/Xuất ZIP/Xóa ảnh, Xem/Xuất bảng chấm công, Quản lý tài khoản và Phân quyền nhân sự) giúp bổ nhiệm chức danh chính xác theo nguyên tắc tối thiểu đặc quyền, chống leo thang quyền và dễ quản trị hơn.",
+      "apkUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.17.apk",
+      "apkSha256": "3F4472BE9A14E12C60C5CF1A437FCC325044A470C4B49347C29B9C8054501F0B",
+      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.17.apk",
+      "installerSha256": "3F4472BE9A14E12C60C5CF1A437FCC325044A470C4B49347C29B9C8054501F0B"
     }
   }
 }
