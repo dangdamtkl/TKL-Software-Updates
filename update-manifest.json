@@ -1,76 +1,76 @@
 {
-  "schemaVersion": 1,
-  "generatedAt": "2026-11-25T10:43:08.2765470+07:00",
-  "apps": {
-    "TKLScreenPen": {
-      "appName": "TKL Pen",
-      "latestVersion": "1.3.0",
-      "publishedAt": "2026-11-23",
-      "releaseNotes": "Bản cập nhật v1.3.0: Nâng cấp toàn diện TKL Pen sau kiểm toán QA. Củng cố an toàn tương tác (thoát chế độ vẽ bằng phím Esc, viền chỉ báo 2px khi đang vẽ, tắt bảng trắng/đen ngay khi ẩn xuống khay hoặc chuyển về chuột, tự động đánh thức cửa sổ đang chạy khi mở trùng qua IPC, đa màn hình độc lập theo từng màn hình kèm tọa độ âm); nâng cấp công cụ vẽ và chú thích (tẩy gộp 1 lần kéo thành 1 bước Undo/Redo, chế độ Tẩy một phần EraseByPoint, tùy chọn Tô nền hình, điều chỉnh độ trong suốt 25%–100%, giữ Shift khóa góc 45°, thanh định dạng chữ trực tiếp Font/Đậm/Nghiêng/Nền, nháy đúp sửa chữ và kéo di chuyển chữ); nâng cấp chụp màn hình (khắc phục trôi tọa độ khi Undo/Redo sau khi dời vùng chọn, chụp Toàn màn hình/Cửa sổ hiện hành/Không kèm nét vẽ, xuất PNG nền trong suốt và JPEG, phím số 0–8 chuyển công cụ nhanh); tự động ghi nhớ trạng thái thanh công cụ, hỗ trợ cuộn DPI cao, đầy đủ nhãn Accessibility (AutomationProperties.Name & ToolTip), giới hạn lịch sử 100 bước và siết chặt bảo mật OTA (bắt buộc HTTPS + SHA-256).",
-      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen-Setup-v1.3.0.exe",
-      "installerSha256": "CC52D556112C30E9381DF85C9043365A276809DCFC05D855A43A7438304B98CF",
-      "portableExeUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen.exe",
-      "portableSha256": "A1BA3633E5829C434222EB138DB9084B04C412C201A13044CEB4DC2AE3310A50"
-    },
-    "TKLPdfStudio": {
-      "appName": "TKLPdfStudio (TKL PDF)",
-      "latestVersion": "2.1.0",
-      "publishedAt": "2026-11-22",
-      "releaseNotes": "Bản cập nhật v2.1.0: Nâng cấp toàn diện lõi xử lý PDF (PDFsharp-WPF 6.2.4, PDFium chromium/8165, mã hóa AES-256, Working Copy Undo/Redo thống nhất); bổ sung chú thích chuẩn ISO /Annots & XFDF, tầng CAD OCG, Bookmarks, Đính kèm, Tìm kiếm NFC/ReDoS, đo bóc bản vẽ CAD có bắt điểm & đơn vị ha, so sánh PDF & nén thông minh; viewport ảo hóa High-DPI và in vector N-Up/Poster; chỉnh sửa nội dung gốc & Redaction xóa vĩnh viễn cấp content-stream; OCR tiếng Việt ngoại tuyến (Tesseract 5) & biểu mẫu AcroForm; chuyển đổi Office (RTF/DOCX/XLSX/MD) & xử lý hàng loạt; ký số X.509 (CAdES-BES/USB Token/PFX/TSA/LTV) & chuẩn PDF/A-2b; giao diện Sáng/Tối, 20 tệp mở gần đây (MRU), 100% Accessibility, ghi log lỗi có cấu trúc và tối ưu bộ nhớ.",
-      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio-Setup-v2.1.0.exe",
-      "installerSha256": "167C6A2857E09A590ABBDAB95E9981178A0B8D4B5F42F21FE74445CFB0690FD0",
-      "portableExeUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio.exe",
-      "portableSha256": "9856AA23131A426C210CC0C2A0AB15268137A5B6A8332797875DD5207819C777"
-    },
-    "TKLOfficeStudio": {
-      "appName": "TKLOfficeStudio (TKL Office)",
-      "latestVersion": "2.0.1",
-      "publishedAt": "2026-11-23",
-      "releaseNotes": "Bản vá v2.0.1: Khắc phục triệt để lỗi hiển thị văn bản ẩn từ Google Dịch / HTML (như 'Không tải được hết các kết quả / Thử lại / Đang thử lại...') khi mở tệp Word (.docx) trong TKL Office. Bổ sung lọc chính xác các thuộc tính chữ ẩn OpenXML (w:vanish, w:webHidden, w:specVanish, cỡ chữ 0pt, kế thừa rStyle/pStyle/basedOn/docDefaults và dấu kết thúc đoạn ẩn), ẩn mã trường phức tạp/trường ẩn (XE/TC/TA/RD/PRIVATE), lọc chữ ẩn và Track Changes đã xóa ở Header/Footer/Comment/Footnote/Endnote, đồng thời giữ nguyên cấu trúc OpenXML gốc khi lưu không chỉnh sửa.",
-      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLOfficeStudio-Setup-v2.0.1.exe",
-      "installerSha256": "F142DB666EE7BA5B15A435CF3C468119BFC38105F57EDAAF196E5D64C2BA6399",
-      "portableExeUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLOfficeStudio.exe",
-      "portableSha256": "734A1308EBE3B98719F4A3D658EE822F86906D46E8BD4D36AD9687F847F342EE"
-    },
-    "TKLWatermarkPro": {
-      "appName": "TKL Watermark Pro (TKL Mark)",
-      "latestVersion": "1.1.0",
-      "publishedAt": "2026-11-22",
-      "releaseNotes": "Bản cập nhật v1.1.0: Đồng bộ biểu tượng nhận diện thương hiệu TKL (khung bo trắng, logo TKL và nhãn góc WM màu cam hổ phách), rút gọn tên shortcut ngoài Desktop thành 'TKL Mark' hiển thị gọn 1 dòng, bổ sung hệ thống tự động cập nhật OTA tải nền an toàn (xác minh SHA-256, nút Hủy tải) và hộp thoại Giới thiệu & Thông tin bản quyền kèm Giấy phép Mã nguồn mở.",
-      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLWatermarkPro-Setup-v1.1.0.exe",
-      "installerSha256": "D6905B0135F1B6EAC10995C191F5DA9E265C8E6AC78B400E1D4C8305BDEE573A",
-      "portableExeUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLWatermarkPro.exe",
-      "portableSha256": "B25E9D508270A17D9DCE16088A8F02D4AE8E4B1F2F4730B1ACE82E7D76D8B188"
-    },
-    "TKLLarkImageDownloader": {
-      "appName": "TKL Lark Image Downloader (TKL Lark)",
-      "latestVersion": "1.1.0",
-      "publishedAt": "2026-11-24",
-      "releaseNotes": "Bản cập nhật v1.1.0: Bổ sung tính năng tải video gốc (tin nhắn video, video nhúng bài viết Post, tệp video đính kèm .mp4/.mov/.mkv/.webm..., nhận diện định dạng qua magic bytes, tăng timeout tải tệp lớn lên 15 phút), giữ đầy đủ tính năng tải ảnh gốc từ nhóm Lark / Feishu, tự động đặt thư mục lưu theo tên nhóm, Resume chống trùng và cập nhật OTA qua GitHub HTTPS kèm xác minh SHA-256.",
-      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLLarkImageDownloader-Setup-v1.1.0.exe",
-      "installerSha256": "975FF7A5C2AC7F90D35C66EA70886D4BE7377A58875FFEB71E476C05909179D0",
-      "portableExeUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLLarkImageDownloader.exe",
-      "portableSha256": "C6FFA6D90EB6FF38D098BD206A9287D8AABBE194266BC5A72CDA01C640465DF4"
-    },
-    "TKLMarkiMediaDownloader": {
-      "appName": "TKL Marki Media Downloader (TKL Marki)",
-      "latestVersion": "1.0.0",
-      "publishedAt": "2026-11-24",
-      "releaseNotes": "Phát hành v1.0.0: Công cụ tải toàn bộ ảnh & video gốc kèm metadata từ Marki (manage.markicam.com). Hỗ trợ đăng nhập trực tiếp qua Microsoft Edge WebView2 (kèm dự phòng dán Cookie/cURL và lưu mã hóa Windows DPAPI), tự động tải danh sách nhóm/thành viên/mẫu Watermark/Album DIY, lọc ngày/thành viên/watermark/Collage, tải song song 2–8 luồng có Resume chống trùng, xuất CSV metadata chuẩn Excel và tự động cập nhật OTA qua GitHub HTTPS kèm xác minh SHA-256.",
-      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLMarkiMediaDownloader-Setup-v1.0.0.exe",
-      "installerSha256": "D38CF0A3D321E27A6805A22875AB8D34F303EBE884F67CD46128533C23EF1CD3",
-      "portableExeUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLMarkiMediaDownloader.exe",
-      "portableSha256": "406E539F7294320F38A6754CE9403B9FDF520A2A15046E38C94ABEFE7D21B5E7"
-    },
-    "TKLCamera": {
-      "appName": "TKL Camera (Android)",
-      "latestVersion": "1.0.19",
-      "publishedAt": "2026-11-25",
-      "releaseNotes": "Bản cập nhật v1.0.19 (Build 20): Giãn khoảng cách nút quả chuông thông báo khỏi mép phải màn hình Camera và thu gọn hàng nút điều khiển trên cùng; chuyển toàn bộ thông báo dự án & ảnh mới về im lặng chỉ hiển thị trong quả chuông (bỏ thông báo nổi SnackBar và banner hệ thống gây phiền khi đang làm việc, đồng thời vẫn đồng bộ danh sách & số chưa đọc theo thời gian thực).",
-      "apkUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.19.apk",
-      "apkSha256": "5C81A1311C081113F9E6317FE73557DE5E8437065B54027D2059C550394DA91D",
-      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.19.apk",
-      "installerSha256": "5C81A1311C081113F9E6317FE73557DE5E8437065B54027D2059C550394DA91D"
-    }
-  }
+    "schemaVersion":  1,
+    "generatedAt":  "2026-11-25T11:35:12.5459366+07:00",
+    "apps":  {
+                 "TKLScreenPen":  {
+                                      "appName":  "TKL Pen",
+                                      "latestVersion":  "1.3.0",
+                                      "publishedAt":  "2026-11-23",
+                                      "releaseNotes":  "Bản cập nhật v1.3.0: Nâng cấp toàn diện TKL Pen sau kiểm toán QA. Củng cố an toàn tương tác (thoát chế độ vẽ bằng phím Esc, viền chỉ báo 2px khi đang vẽ, tắt bảng trắng/đen ngay khi ẩn xuống khay hoặc chuyển về chuột, tự động đánh thức cửa sổ đang chạy khi mở trùng qua IPC, đa màn hình độc lập theo từng màn hình kèm tọa độ âm); nâng cấp công cụ vẽ và chú thích (tẩy gộp 1 lần kéo thành 1 bước Undo/Redo, chế độ Tẩy một phần EraseByPoint, tùy chọn Tô nền hình, điều chỉnh độ trong suốt 25%–100%, giữ Shift khóa góc 45°, thanh định dạng chữ trực tiếp Font/Đậm/Nghiêng/Nền, nháy đúp sửa chữ và kéo di chuyển chữ); nâng cấp chụp màn hình (khắc phục trôi tọa độ khi Undo/Redo sau khi dời vùng chọn, chụp Toàn màn hình/Cửa sổ hiện hành/Không kèm nét vẽ, xuất PNG nền trong suốt và JPEG, phím số 0–8 chuyển công cụ nhanh); tự động ghi nhớ trạng thái thanh công cụ, hỗ trợ cuộn DPI cao, đầy đủ nhãn Accessibility (AutomationProperties.Name \u0026 ToolTip), giới hạn lịch sử 100 bước và siết chặt bảo mật OTA (bắt buộc HTTPS + SHA-256).",
+                                      "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen-Setup-v1.3.0.exe",
+                                      "installerSha256":  "CC52D556112C30E9381DF85C9043365A276809DCFC05D855A43A7438304B98CF",
+                                      "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLScreenPen.exe",
+                                      "portableSha256":  "A1BA3633E5829C434222EB138DB9084B04C412C201A13044CEB4DC2AE3310A50"
+                                  },
+                 "TKLPdfStudio":  {
+                                      "appName":  "TKLPdfStudio (TKL PDF)",
+                                      "latestVersion":  "2.1.0",
+                                      "publishedAt":  "2026-11-22",
+                                      "releaseNotes":  "Bản cập nhật v2.1.0: Nâng cấp toàn diện lõi xử lý PDF (PDFsharp-WPF 6.2.4, PDFium chromium/8165, mã hóa AES-256, Working Copy Undo/Redo thống nhất); bổ sung chú thích chuẩn ISO /Annots \u0026 XFDF, tầng CAD OCG, Bookmarks, Đính kèm, Tìm kiếm NFC/ReDoS, đo bóc bản vẽ CAD có bắt điểm \u0026 đơn vị ha, so sánh PDF \u0026 nén thông minh; viewport ảo hóa High-DPI và in vector N-Up/Poster; chỉnh sửa nội dung gốc \u0026 Redaction xóa vĩnh viễn cấp content-stream; OCR tiếng Việt ngoại tuyến (Tesseract 5) \u0026 biểu mẫu AcroForm; chuyển đổi Office (RTF/DOCX/XLSX/MD) \u0026 xử lý hàng loạt; ký số X.509 (CAdES-BES/USB Token/PFX/TSA/LTV) \u0026 chuẩn PDF/A-2b; giao diện Sáng/Tối, 20 tệp mở gần đây (MRU), 100% Accessibility, ghi log lỗi có cấu trúc và tối ưu bộ nhớ.",
+                                      "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio-Setup-v2.1.0.exe",
+                                      "installerSha256":  "167C6A2857E09A590ABBDAB95E9981178A0B8D4B5F42F21FE74445CFB0690FD0",
+                                      "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLPdfStudio.exe",
+                                      "portableSha256":  "9856AA23131A426C210CC0C2A0AB15268137A5B6A8332797875DD5207819C777"
+                                  },
+                 "TKLOfficeStudio":  {
+                                         "appName":  "TKLOfficeStudio (TKL Office)",
+                                         "latestVersion":  "2.0.1",
+                                         "publishedAt":  "2026-11-23",
+                                         "releaseNotes":  "Bản vá v2.0.1: Khắc phục triệt để lỗi hiển thị văn bản ẩn từ Google Dịch / HTML (như \u0027Không tải được hết các kết quả / Thử lại / Đang thử lại...\u0027) khi mở tệp Word (.docx) trong TKL Office. Bổ sung lọc chính xác các thuộc tính chữ ẩn OpenXML (w:vanish, w:webHidden, w:specVanish, cỡ chữ 0pt, kế thừa rStyle/pStyle/basedOn/docDefaults và dấu kết thúc đoạn ẩn), ẩn mã trường phức tạp/trường ẩn (XE/TC/TA/RD/PRIVATE), lọc chữ ẩn và Track Changes đã xóa ở Header/Footer/Comment/Footnote/Endnote, đồng thời giữ nguyên cấu trúc OpenXML gốc khi lưu không chỉnh sửa.",
+                                         "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLOfficeStudio-Setup-v2.0.1.exe",
+                                         "installerSha256":  "F142DB666EE7BA5B15A435CF3C468119BFC38105F57EDAAF196E5D64C2BA6399",
+                                         "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLOfficeStudio.exe",
+                                         "portableSha256":  "734A1308EBE3B98719F4A3D658EE822F86906D46E8BD4D36AD9687F847F342EE"
+                                     },
+                 "TKLWatermarkPro":  {
+                                         "appName":  "TKL Watermark Pro (TKL Mark)",
+                                         "latestVersion":  "1.1.0",
+                                         "publishedAt":  "2026-11-22",
+                                         "releaseNotes":  "Bản cập nhật v1.1.0: Đồng bộ biểu tượng nhận diện thương hiệu TKL (khung bo trắng, logo TKL và nhãn góc WM màu cam hổ phách), rút gọn tên shortcut ngoài Desktop thành \u0027TKL Mark\u0027 hiển thị gọn 1 dòng, bổ sung hệ thống tự động cập nhật OTA tải nền an toàn (xác minh SHA-256, nút Hủy tải) và hộp thoại Giới thiệu \u0026 Thông tin bản quyền kèm Giấy phép Mã nguồn mở.",
+                                         "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLWatermarkPro-Setup-v1.1.0.exe",
+                                         "installerSha256":  "D6905B0135F1B6EAC10995C191F5DA9E265C8E6AC78B400E1D4C8305BDEE573A",
+                                         "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLWatermarkPro.exe",
+                                         "portableSha256":  "B25E9D508270A17D9DCE16088A8F02D4AE8E4B1F2F4730B1ACE82E7D76D8B188"
+                                     },
+                 "TKLLarkImageDownloader":  {
+                                                "appName":  "TKL Lark Image Downloader (TKL Lark)",
+                                                "latestVersion":  "1.1.0",
+                                                "publishedAt":  "2026-11-24",
+                                                "releaseNotes":  "Bản cập nhật v1.1.0: Bổ sung tính năng tải video gốc (tin nhắn video, video nhúng bài viết Post, tệp video đính kèm .mp4/.mov/.mkv/.webm..., nhận diện định dạng qua magic bytes, tăng timeout tải tệp lớn lên 15 phút), giữ đầy đủ tính năng tải ảnh gốc từ nhóm Lark / Feishu, tự động đặt thư mục lưu theo tên nhóm, Resume chống trùng và cập nhật OTA qua GitHub HTTPS kèm xác minh SHA-256.",
+                                                "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLLarkImageDownloader-Setup-v1.1.0.exe",
+                                                "installerSha256":  "975FF7A5C2AC7F90D35C66EA70886D4BE7377A58875FFEB71E476C05909179D0",
+                                                "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLLarkImageDownloader.exe",
+                                                "portableSha256":  "C6FFA6D90EB6FF38D098BD206A9287D8AABBE194266BC5A72CDA01C640465DF4"
+                                            },
+                 "TKLMarkiMediaDownloader":  {
+                                                 "appName":  "TKL Marki Media Downloader (TKL Marki)",
+                                                 "latestVersion":  "1.0.0",
+                                                 "publishedAt":  "2026-11-24",
+                                                 "releaseNotes":  "Phát hành v1.0.0: Công cụ tải toàn bộ ảnh \u0026 video gốc kèm metadata từ Marki (manage.markicam.com). Hỗ trợ đăng nhập trực tiếp qua Microsoft Edge WebView2 (kèm dự phòng dán Cookie/cURL và lưu mã hóa Windows DPAPI), tự động tải danh sách nhóm/thành viên/mẫu Watermark/Album DIY, lọc ngày/thành viên/watermark/Collage, tải song song 2–8 luồng có Resume chống trùng, xuất CSV metadata chuẩn Excel và tự động cập nhật OTA qua GitHub HTTPS kèm xác minh SHA-256.",
+                                                 "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLMarkiMediaDownloader-Setup-v1.0.0.exe",
+                                                 "installerSha256":  "D38CF0A3D321E27A6805A22875AB8D34F303EBE884F67CD46128533C23EF1CD3",
+                                                 "portableExeUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLMarkiMediaDownloader.exe",
+                                                 "portableSha256":  "406E539F7294320F38A6754CE9403B9FDF520A2A15046E38C94ABEFE7D21B5E7"
+                                             },
+                 "TKLCamera":  {
+                                   "appName":  "TKL Camera (Android)",
+                                   "latestVersion":  "1.0.20",
+                                   "publishedAt":  "2026-11-25",
+                                   "releaseNotes":  "Bản cập nhật v1.0.20 (Build 21): Bổ sung tính năng tự động xoay dấu ảnh (watermark) sang ngang khi xoay điện thoại theo chiều ngang (cả khung ngắm trực tiếp lẫn ảnh chụp đầu ra, hoạt động ngay cả khi khóa xoay màn hình dọc và tự tránh xoay kép khi bật xoay màn hình tự động).",
+                                   "apkUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.20.apk",
+                                   "apkSha256":  "528EF66D4C0EE085B02F14EB46906392348323FEF89E1083374E06F586EEA2D5",
+                                   "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.20.apk",
+                                   "installerSha256":  "528EF66D4C0EE085B02F14EB46906392348323FEF89E1083374E06F586EEA2D5"
+                               }
+             }
 }
