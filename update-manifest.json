@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T07:33:50.2098600+07:00",
+  "generatedAt": "2026-11-25T07:59:48.1910434+07:00",
   "apps": {
     "TKLScreenPen": {
       "appName": "TKL Pen",
@@ -64,13 +64,13 @@
     },
     "TKLCamera": {
       "appName": "TKL Camera (Android)",
-      "latestVersion": "1.0.14",
+      "latestVersion": "1.0.15",
       "publishedAt": "2026-11-25",
-      "releaseNotes": "Bản cập nhật bảo mật v1.0.14 (Build 15): Khắc phục triệt để lỗi phân quyền hiển thị và chụp ảnh dự án. Từ nay nhân viên chỉ nhìn thấy, chụp ảnh/quay video đóng dấu và chấm công trong các dự án đã được mời tham gia; máy chủ kiểm tra chặt chẽ quyền thành viên dự án và trạng thái hoạt động tài khoản ở mọi API; ứng dụng tự động xóa cache dự án cũ khi đăng xuất hoặc bị gỡ khỏi dự án.",
-      "apkUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.14.apk",
-      "apkSha256": "0C0EE58A8F422682FAF1D5058963B50CCCDCA2E7E49143B6C8EBB0A9F47AB12F",
-      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.14.apk",
-      "installerSha256": "0C0EE58A8F422682FAF1D5058963B50CCCDCA2E7E49143B6C8EBB0A9F47AB12F"
+      "releaseNotes": "Bản cập nhật v1.0.15 (Build 16): Bổ sung cơ chế dự án mặc định toàn công ty và thiết lập mặc định dự án Trung Kiên Landscape để mọi nhân viên đang hoạt động có thể chọn và chụp ảnh đóng dấu, chấm công ngay mà không cần mời vào dự án; vẫn giữ cách ly nghiêm ngặt các dự án riêng khác, siết chặt quyền chỉnh sửa/xóa dự án mặc định và bảo vệ quyền riêng tư số điện thoại.",
+      "apkUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.15.apk",
+      "apkSha256": "5A40730A0C5553ED6AC5385A53FA3E404C9E2F15C052D49298A95D9A5159F5D7",
+      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.15.apk",
+      "installerSha256": "5A40730A0C5553ED6AC5385A53FA3E404C9E2F15C052D49298A95D9A5159F5D7"
     }
   }
 }
