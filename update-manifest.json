@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T07:02:38.4465285+07:00",
+  "generatedAt": "2026-11-25T07:33:50.2098600+07:00",
   "apps": {
     "TKLScreenPen": {
       "appName": "TKL Pen",
@@ -64,13 +64,13 @@
     },
     "TKLCamera": {
       "appName": "TKL Camera (Android)",
-      "latestVersion": "1.0.13",
+      "latestVersion": "1.0.14",
       "publishedAt": "2026-11-25",
-      "releaseNotes": "Bản cập nhật v1.0.13 (Build 14): Bổ sung tính năng tự đổi mật khẩu cho mọi nhân viên ngay trên ứng dụng điện thoại (mục Cài đặt -> Đổi mật khẩu trên thẻ tài khoản, hỗ trợ bật/tắt ẩn hiện mật khẩu & kiểm tra hợp lệ) và nâng cấp độ nổi bật của nút Đổi mật khẩu + con mắt ẩn/hiện mật khẩu trên Web Admin; chuẩn hóa xác thực mật khẩu hiện tại và mật khẩu mới khác mật khẩu cũ trên máy chủ.",
-      "apkUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.13.apk",
-      "apkSha256": "8F2A30C7FAE61DC9646C3A9B71B5784591490FCA98B9E61FEED452D1D654D2EA",
-      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.13.apk",
-      "installerSha256": "8F2A30C7FAE61DC9646C3A9B71B5784591490FCA98B9E61FEED452D1D654D2EA"
+      "releaseNotes": "Bản cập nhật bảo mật v1.0.14 (Build 15): Khắc phục triệt để lỗi phân quyền hiển thị và chụp ảnh dự án. Từ nay nhân viên chỉ nhìn thấy, chụp ảnh/quay video đóng dấu và chấm công trong các dự án đã được mời tham gia; máy chủ kiểm tra chặt chẽ quyền thành viên dự án và trạng thái hoạt động tài khoản ở mọi API; ứng dụng tự động xóa cache dự án cũ khi đăng xuất hoặc bị gỡ khỏi dự án.",
+      "apkUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.14.apk",
+      "apkSha256": "0C0EE58A8F422682FAF1D5058963B50CCCDCA2E7E49143B6C8EBB0A9F47AB12F",
+      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.14.apk",
+      "installerSha256": "0C0EE58A8F422682FAF1D5058963B50CCCDCA2E7E49143B6C8EBB0A9F47AB12F"
     }
   }
 }
