@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T07:59:48.1910434+07:00",
+  "generatedAt": "2026-11-25T08:07:56.0217606+07:00",
   "apps": {
     "TKLScreenPen": {
       "appName": "TKL Pen",
@@ -64,13 +64,13 @@
     },
     "TKLCamera": {
       "appName": "TKL Camera (Android)",
-      "latestVersion": "1.0.15",
+      "latestVersion": "1.0.16",
       "publishedAt": "2026-11-25",
-      "releaseNotes": "Bản cập nhật v1.0.15 (Build 16): Bổ sung cơ chế dự án mặc định toàn công ty và thiết lập mặc định dự án Trung Kiên Landscape để mọi nhân viên đang hoạt động có thể chọn và chụp ảnh đóng dấu, chấm công ngay mà không cần mời vào dự án; vẫn giữ cách ly nghiêm ngặt các dự án riêng khác, siết chặt quyền chỉnh sửa/xóa dự án mặc định và bảo vệ quyền riêng tư số điện thoại.",
-      "apkUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.15.apk",
-      "apkSha256": "5A40730A0C5553ED6AC5385A53FA3E404C9E2F15C052D49298A95D9A5159F5D7",
-      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.15.apk",
-      "installerSha256": "5A40730A0C5553ED6AC5385A53FA3E404C9E2F15C052D49298A95D9A5159F5D7"
+      "releaseNotes": "Bản cập nhật v1.0.16 (Build 17): Bổ sung cơ chế dự án mặc định toàn công ty và thiết lập mặc định dự án Trung Kiên Landscape để mọi nhân viên đang hoạt động có thể chọn và chụp ảnh đóng dấu, chấm công ngay mà không cần mời vào dự án; tối ưu chống tràn chữ ô chọn dự án trên màn hình nhỏ; vẫn giữ cách ly nghiêm ngặt các dự án riêng khác, siết chặt quyền chỉnh sửa/xóa dự án mặc định và bảo vệ quyền riêng tư số điện thoại.",
+      "apkUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.16.apk",
+      "apkSha256": "837AB7B6D6D583489E553EF1138F57BD7EE842F455B981F64B22431FA87A4A5A",
+      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.16.apk",
+      "installerSha256": "837AB7B6D6D583489E553EF1138F57BD7EE842F455B981F64B22431FA87A4A5A"
     }
   }
 }
