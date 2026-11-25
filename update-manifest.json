@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-11-25T11:35:12.5459366+07:00",
+    "generatedAt":  "2026-11-25T15:16:56.7201343+07:00",
     "apps":  {
                  "TKLScreenPen":  {
                                       "appName":  "TKL Pen",
@@ -64,13 +64,13 @@
                                              },
                  "TKLCamera":  {
                                    "appName":  "TKL Camera (Android)",
-                                   "latestVersion":  "1.0.20",
+                                   "latestVersion":  "1.0.21",
                                    "publishedAt":  "2026-11-25",
-                                   "releaseNotes":  "Bản cập nhật v1.0.20 (Build 21): Bổ sung tính năng tự động xoay dấu ảnh (watermark) sang ngang khi xoay điện thoại theo chiều ngang (cả khung ngắm trực tiếp lẫn ảnh chụp đầu ra, hoạt động ngay cả khi khóa xoay màn hình dọc và tự tránh xoay kép khi bật xoay màn hình tự động).",
-                                   "apkUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.20.apk",
-                                   "apkSha256":  "528EF66D4C0EE085B02F14EB46906392348323FEF89E1083374E06F586EEA2D5",
-                                   "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.20.apk",
-                                   "installerSha256":  "528EF66D4C0EE085B02F14EB46906392348323FEF89E1083374E06F586EEA2D5"
+                                   "releaseNotes":  "Bản cập nhật v1.0.21 (Build 22): Đồng bộ phiên bản v1.0.21 (Build 22) trên cả 3 ứng dụng (Android APK, Ứng dụng Web di động /m/ và Trang Quản trị Web); tối ưu cơ chế kiểm tra \u0026 khôi phục quyền Camera (kiểm tra trạng thái quyền trước khi yêu cầu, tự khôi phục khi quay lại ứng dụng, xử lý thu hồi quyền \u0026 mở Cài đặt ứng dụng, tạm dừng preview khi đổi tab); đồng bộ bộ lọc nhân sự theo đúng phạm vi phân quyền dự án mới trên máy chủ.",
+                                   "apkUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.21.apk",
+                                   "apkSha256":  "653FCF9553DAB09F99E0E9682829A69FCB018512918CD2CE8CDE4FE0E50DCD53",
+                                   "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.21.apk",
+                                   "installerSha256":  "653FCF9553DAB09F99E0E9682829A69FCB018512918CD2CE8CDE4FE0E50DCD53"
                                }
              }
 }
