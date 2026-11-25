@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T08:29:04.3206363+07:00",
+  "generatedAt": "2026-11-25T09:41:26.1902230+07:00",
   "apps": {
     "TKLScreenPen": {
       "appName": "TKL Pen",
@@ -64,13 +64,13 @@
     },
     "TKLCamera": {
       "appName": "TKL Camera (Android)",
-      "latestVersion": "1.0.17",
+      "latestVersion": "1.0.18",
       "publishedAt": "2026-11-25",
-      "releaseNotes": "Bản cập nhật v1.0.17 (Build 18): Tách nhỏ và sắp xếp lại hệ thống phân quyền thành 4 nhóm 13 quyền chi tiết (Tạo/Sửa/Xóa dự án, Quản lý hạng mục, Mời thành viên, Cấu hình ca & GPS, Xem/Xuất ZIP/Xóa ảnh, Xem/Xuất bảng chấm công, Quản lý tài khoản và Phân quyền nhân sự) giúp bổ nhiệm chức danh chính xác theo nguyên tắc tối thiểu đặc quyền, chống leo thang quyền và dễ quản trị hơn.",
-      "apkUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.17.apk",
-      "apkSha256": "3F4472BE9A14E12C60C5CF1A437FCC325044A470C4B49347C29B9C8054501F0B",
-      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.17.apk",
-      "installerSha256": "3F4472BE9A14E12C60C5CF1A437FCC325044A470C4B49347C29B9C8054501F0B"
+      "releaseNotes": "Bản cập nhật v1.0.18 (Build 19): Ký số chính thức bằng Release Upload Key của Công Ty TNHH Cảnh Quan Trung Kiên; nâng cấp targetSdk 36 (Android 16) hỗ trợ Edge-to-Edge và căn chỉnh trang bộ nhớ 16 KB; tách kênh phân phối Google Play (vn.com.tkl.camera) và nội bộ (com.tkl.tkl_camera); mã hóa token đăng nhập bằng Android Keystore AES-256-GCM, tắt allowBackup và chỉ dùng HTTPS; thay thế bản đồ mini bằng proxy bảo mật TKL/OSM; loại bỏ quyền thừa READ_MEDIA_IMAGES/VIDEO (dùng trình chọn ảnh hệ thống Photo Picker); bổ sung Chính sách bảo mật và xác nhận đồng ý theo Luật BVDLCN 91/2025/QH15; đăng xuất xóa sạch dữ liệu cục bộ và thu hồi phiên trên máy chủ; thêm công cụ đồng bộ toàn bộ và xuất ảnh ra DCIM/TKL Camera; sửa lỗi zoom chụm tay, chạm lấy nét kèm khung nét, bù sáng EV, dừng lưu video an toàn khi khóa màn hình, kiểm tra dung lượng trống, tùy chọn giữ EXIF gốc, khôi phục hàng đợi syncing, tối ưu dung lượng logo và bổ sung màn hình khởi động thương hiệu TKL.",
+      "apkUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.18.apk",
+      "apkSha256": "7FDF925A858FA922F50443BA8D1282C28615F75EF7C1C9074141BEDF7DC343D1",
+      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.18.apk",
+      "installerSha256": "7FDF925A858FA922F50443BA8D1282C28615F75EF7C1C9074141BEDF7DC343D1"
     }
   }
 }
