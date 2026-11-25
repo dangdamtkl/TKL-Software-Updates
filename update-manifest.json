@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T06:54:06.0364431+07:00",
+  "generatedAt": "2026-11-25T07:02:38.4465285+07:00",
   "apps": {
     "TKLScreenPen": {
       "appName": "TKL Pen",
@@ -64,13 +64,13 @@
     },
     "TKLCamera": {
       "appName": "TKL Camera (Android)",
-      "latestVersion": "1.0.12",
+      "latestVersion": "1.0.13",
       "publishedAt": "2026-11-25",
-      "releaseNotes": "Bản cập nhật v1.0.12 (Build 13): Khắc phục lỗi chỉ bật/nạp được cả nhóm hạng mục trên App Android — bổ sung cơ chế bật/tắt 2 chiều toàn bộ từng nhóm chuyên ngành chỉ bằng 1 chạm (chip trạng thái Bật/Tắt + nút Tắt nhóm/Bật nhóm & Xóa cả nhóm) cùng nút Chọn cả nhóm / Bỏ chọn cả nhóm ngay khi chụp ảnh; đồng thời ra mắt khu vực Đóng dấu ảnh hàng loạt dành riêng cho Admin trên Web Admin (/batch-stamp) cho phép chỉnh sửa toàn bộ thông số tem ảnh cho ảnh cũ với giờ tự động tăng dần logic và tọa độ biến thiên động trong phạm vi bản đồ.",
-      "apkUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.12.apk",
-      "apkSha256": "A71ADAF79312BA7078468F609657BAFF9FF02CA42464122F66381E39EEC2AD1F",
-      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.12.apk",
-      "installerSha256": "A71ADAF79312BA7078468F609657BAFF9FF02CA42464122F66381E39EEC2AD1F"
+      "releaseNotes": "Bản cập nhật v1.0.13 (Build 14): Bổ sung tính năng tự đổi mật khẩu cho mọi nhân viên ngay trên ứng dụng điện thoại (mục Cài đặt -> Đổi mật khẩu trên thẻ tài khoản, hỗ trợ bật/tắt ẩn hiện mật khẩu & kiểm tra hợp lệ) và nâng cấp độ nổi bật của nút Đổi mật khẩu + con mắt ẩn/hiện mật khẩu trên Web Admin; chuẩn hóa xác thực mật khẩu hiện tại và mật khẩu mới khác mật khẩu cũ trên máy chủ.",
+      "apkUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.13.apk",
+      "apkSha256": "8F2A30C7FAE61DC9646C3A9B71B5784591490FCA98B9E61FEED452D1D654D2EA",
+      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.13.apk",
+      "installerSha256": "8F2A30C7FAE61DC9646C3A9B71B5784591490FCA98B9E61FEED452D1D654D2EA"
     }
   }
 }
