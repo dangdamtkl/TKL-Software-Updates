@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-11-25T15:16:56.7201343+07:00",
+    "generatedAt":  "2026-11-25T18:03:45.3287492+07:00",
     "apps":  {
                  "TKLScreenPen":  {
                                       "appName":  "TKL Pen",
@@ -64,13 +64,13 @@
                                              },
                  "TKLCamera":  {
                                    "appName":  "TKL Camera (Android)",
-                                   "latestVersion":  "1.0.21",
+                                   "latestVersion":  "1.0.22",
                                    "publishedAt":  "2026-11-25",
-                                   "releaseNotes":  "Bản cập nhật v1.0.21 (Build 22): Đồng bộ phiên bản v1.0.21 (Build 22) trên cả 3 ứng dụng (Android APK, Ứng dụng Web di động /m/ và Trang Quản trị Web); tối ưu cơ chế kiểm tra \u0026 khôi phục quyền Camera (kiểm tra trạng thái quyền trước khi yêu cầu, tự khôi phục khi quay lại ứng dụng, xử lý thu hồi quyền \u0026 mở Cài đặt ứng dụng, tạm dừng preview khi đổi tab); đồng bộ bộ lọc nhân sự theo đúng phạm vi phân quyền dự án mới trên máy chủ.",
-                                   "apkUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.21.apk",
-                                   "apkSha256":  "653FCF9553DAB09F99E0E9682829A69FCB018512918CD2CE8CDE4FE0E50DCD53",
-                                   "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.21.apk",
-                                   "installerSha256":  "653FCF9553DAB09F99E0E9682829A69FCB018512918CD2CE8CDE4FE0E50DCD53"
+                                   "releaseNotes":  "Bản cập nhật v1.0.22 (Build 23): Đồng bộ giao diện chuẩn nhận diện TKL-EOS (#2B398B / #1E295B / #14B795 / #F5F6FA) trên cả 3 ứng dụng (Android APK, Ứng dụng Web di động /m/ và Trang Quản trị Web với Header sáng và Sidebar trắng hiện đại); khắc phục triệt để lỗi cuộn ngang trên bảng điều khiển; giữ nguyên toàn bộ 7 mẫu tem đóng dấu ảnh TKL gốc và chuẩn hóa tên mã mẫu dấu.",
+                                   "apkUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.22.apk",
+                                   "apkSha256":  "F3E745600ED49F5F526414C1C874A506D01D85D8CFE8F515355F8BF3A6651491",
+                                   "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.22.apk",
+                                   "installerSha256":  "F3E745600ED49F5F526414C1C874A506D01D85D8CFE8F515355F8BF3A6651491"
                                }
              }
 }
