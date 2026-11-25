@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T09:41:26.1902230+07:00",
+  "generatedAt": "2026-11-25T10:43:08.2765470+07:00",
   "apps": {
     "TKLScreenPen": {
       "appName": "TKL Pen",
@@ -64,13 +64,13 @@
     },
     "TKLCamera": {
       "appName": "TKL Camera (Android)",
-      "latestVersion": "1.0.18",
+      "latestVersion": "1.0.19",
       "publishedAt": "2026-11-25",
-      "releaseNotes": "Bản cập nhật v1.0.18 (Build 19): Ký số chính thức bằng Release Upload Key của Công Ty TNHH Cảnh Quan Trung Kiên; nâng cấp targetSdk 36 (Android 16) hỗ trợ Edge-to-Edge và căn chỉnh trang bộ nhớ 16 KB; tách kênh phân phối Google Play (vn.com.tkl.camera) và nội bộ (com.tkl.tkl_camera); mã hóa token đăng nhập bằng Android Keystore AES-256-GCM, tắt allowBackup và chỉ dùng HTTPS; thay thế bản đồ mini bằng proxy bảo mật TKL/OSM; loại bỏ quyền thừa READ_MEDIA_IMAGES/VIDEO (dùng trình chọn ảnh hệ thống Photo Picker); bổ sung Chính sách bảo mật và xác nhận đồng ý theo Luật BVDLCN 91/2025/QH15; đăng xuất xóa sạch dữ liệu cục bộ và thu hồi phiên trên máy chủ; thêm công cụ đồng bộ toàn bộ và xuất ảnh ra DCIM/TKL Camera; sửa lỗi zoom chụm tay, chạm lấy nét kèm khung nét, bù sáng EV, dừng lưu video an toàn khi khóa màn hình, kiểm tra dung lượng trống, tùy chọn giữ EXIF gốc, khôi phục hàng đợi syncing, tối ưu dung lượng logo và bổ sung màn hình khởi động thương hiệu TKL.",
-      "apkUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.18.apk",
-      "apkSha256": "7FDF925A858FA922F50443BA8D1282C28615F75EF7C1C9074141BEDF7DC343D1",
-      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.18.apk",
-      "installerSha256": "7FDF925A858FA922F50443BA8D1282C28615F75EF7C1C9074141BEDF7DC343D1"
+      "releaseNotes": "Bản cập nhật v1.0.19 (Build 20): Giãn khoảng cách nút quả chuông thông báo khỏi mép phải màn hình Camera và thu gọn hàng nút điều khiển trên cùng; chuyển toàn bộ thông báo dự án & ảnh mới về im lặng chỉ hiển thị trong quả chuông (bỏ thông báo nổi SnackBar và banner hệ thống gây phiền khi đang làm việc, đồng thời vẫn đồng bộ danh sách & số chưa đọc theo thời gian thực).",
+      "apkUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.19.apk",
+      "apkSha256": "5C81A1311C081113F9E6317FE73557DE5E8437065B54027D2059C550394DA91D",
+      "installerUrl": "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.19.apk",
+      "installerSha256": "5C81A1311C081113F9E6317FE73557DE5E8437065B54027D2059C550394DA91D"
     }
   }
 }
