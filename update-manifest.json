@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-11-26T14:26:31.9453798+07:00",
+    "generatedAt":  "2026-11-26T16:41:51.0118156+07:00",
     "apps":  {
                  "TKLScreenPen":  {
                                       "appName":  "TKL Pen",
@@ -64,13 +64,13 @@
                                              },
                  "TKLCamera":  {
                                    "appName":  "TKL Camera (Android)",
-                                   "latestVersion":  "1.0.31",
+                                   "latestVersion":  "1.0.32",
                                    "publishedAt":  "2026-11-26",
-                                   "releaseNotes":  "Bản cập nhật v1.0.31 (Build 32): Nâng cấp trình căn bản vẽ \u0026 xoay bản đồ GPS. Bổ sung xoay bản đồ linh hoạt trên cả Android APK (hỗ trợ xoay 2 ngón tay và nút la bàn -15° / 0° Bắc / +15°), Web di động (/m/) và Web Admin (/map); mở rộng hộp thoại căn bản vẽ PDF/DWG lên chế độ Toàn màn hình rộng rãi, thêm bộ điều khiển xoay bản vẽ -180° đến +180°, thu phóng đồng dạng không méo tỷ lệ và 3 tay cầm kéo trực tiếp (✥ di chuyển, ↻ xoay tròn, ⤢ phóng to/thu nhỏ).",
-                                   "apkUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.31.apk",
-                                   "apkSha256":  "02F6DD6D0CE53A5CF0A6B0F33486DFA661F9A015DCC599C4E0107F082E066558",
-                                   "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.31.apk",
-                                   "installerSha256":  "02F6DD6D0CE53A5CF0A6B0F33486DFA661F9A015DCC599C4E0107F082E066558"
+                                   "releaseNotes":  "Bản cập nhật v1.0.32 (Build 33): Đưa tab Bản đồ GPS lên thanh tab trên cùng của Thư viện (ngang hàng với Trên máy và Kho công ty) trên cả ứng dụng Android APK và Web di động (/m/), giúp mở nhanh bản đồ ảnh hiện trường \u0026 bản vẽ quy hoạch PDF/DWG mà không cần tìm trong Kho công ty. Tách riêng thanh công cụ lọc cho tab Bản đồ, giữ tải bản đồ theo nhu cầu và khóa vuốt ngang giữa các tab khi kéo/xoay bản đồ trên điện thoại.",
+                                   "apkUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.32.apk",
+                                   "apkSha256":  "162AFF7D6C6CD40F5E107F0F21AC0EB883AAB5402BE50FC75E13B34201DB7F95",
+                                   "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.32.apk",
+                                   "installerSha256":  "162AFF7D6C6CD40F5E107F0F21AC0EB883AAB5402BE50FC75E13B34201DB7F95"
                                }
              }
 }
