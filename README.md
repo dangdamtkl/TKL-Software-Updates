@@ -26,8 +26,8 @@ Kho này cung cấp kênh cập nhật OTA qua Internet (GitHub Raw + GitHub Rel
    - [Bộ cài đặt Setup v1.0.0](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLMarkiMediaDownloader-Setup-v1.0.0.exe)
    - [Bản Portable (.exe)](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLMarkiMediaDownloader.exe)
 
-7. **TKL Camera (Android) (`TKLCamera`)** - Phiên bản hiện tại: **v1.0.27**
-   - [Gói cài đặt Android (.apk) v1.0.27](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.27.apk)
+7. **TKL Camera (Android) (`TKLCamera`)** - Phiên bản hiện tại: **v1.0.28**
+   - [Gói cài đặt Android (.apk) v1.0.28](https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.28.apk)
 
 ## Cài đặt nhanh phần mềm Windows qua PowerShell (khuyến nghị)
 
