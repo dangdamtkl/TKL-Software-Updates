@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-11-26T11:40:06.8236391+07:00",
+    "generatedAt":  "2026-11-26T12:30:42.2000199+07:00",
     "apps":  {
                  "TKLScreenPen":  {
                                       "appName":  "TKL Pen",
@@ -64,13 +64,13 @@
                                              },
                  "TKLCamera":  {
                                    "appName":  "TKL Camera (Android)",
-                                   "latestVersion":  "1.0.28",
+                                   "latestVersion":  "1.0.29",
                                    "publishedAt":  "2026-11-26",
-                                   "releaseNotes":  "Bản cập nhật v1.0.28 (Build 29): Khắc phục triệt để lỗi ảnh chụp bị nhiễu sọc khối màu và lẫn ảnh cũ giữa ảnh có tem với ảnh gốc không tem trên Android (Flutter Impeller Vulkan/Mali readback hazard) bằng giải pháp bảo vệ 2 lớp: chuyển Impeller sang OpenGL ES ổn định và giải mã/xoay/ghép ảnh gốc + lớp tem trong suốt hoàn toàn bằng CPU Native Android (Bitmap/Canvas, xóa sạch nền lớp tem trước khi vẽ) cho cả chụp ảnh trực tiếp và đóng dấu ảnh sẵn.",
-                                   "apkUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.28.apk",
-                                   "apkSha256":  "C027BDAD391A3B654DAB423CE62392EA70402204EBFDE1FE8CAB05DA9AD3EDA1",
-                                   "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.28.apk",
-                                   "installerSha256":  "C027BDAD391A3B654DAB423CE62392EA70402204EBFDE1FE8CAB05DA9AD3EDA1"
+                                   "releaseNotes":  "Bản cập nhật v1.0.29 (Build 30): Bổ sung tính năng Bản đồ GPS thực địa ngay trong Thư viện → Kho công ty trên cả Android APK và Web di động (/m/); mặc định chế độ Vệ tinh + Đường đồng bộ với Web Admin, phân loại màu ghim (Ảnh công trình / Vào ca / Ra ca), chạm ghim để xem trước ảnh/video, mở chi tiết, xem toàn màn hình và mở chỉ đường Google Maps, chỉ tải bản đồ khi bật chế độ Bản đồ GPS để tiết kiệm pin và dung lượng 4G.",
+                                   "apkUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.29.apk",
+                                   "apkSha256":  "BCC62B6C3F41B217469CB8559DA7759A5D383491FD389DDCDEE8E34117351F4E",
+                                   "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.29.apk",
+                                   "installerSha256":  "BCC62B6C3F41B217469CB8559DA7759A5D383491FD389DDCDEE8E34117351F4E"
                                }
              }
 }
