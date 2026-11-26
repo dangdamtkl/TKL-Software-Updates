@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-11-25T18:50:19.6613184+07:00",
+    "generatedAt":  "2026-11-26T09:08:04.6161546+07:00",
     "apps":  {
                  "TKLScreenPen":  {
                                       "appName":  "TKL Pen",
@@ -64,13 +64,13 @@
                                              },
                  "TKLCamera":  {
                                    "appName":  "TKL Camera (Android)",
-                                   "latestVersion":  "1.0.24",
-                                   "publishedAt":  "2026-11-25",
-                                   "releaseNotes":  "Bản cập nhật v1.0.24 (Build 25): Đồng bộ hoàn toàn nút chụp VÀO CA (#0D8469) và RA CA (#2B398B) theo chuẩn giao diện Web TKL-EOS đẹp mắt, kèm phụ đề \u0027Chụp ảnh xác thực\u0027, thanh trạng thái chế độ chấm công, màu nút chụp và nhãn lịch sử chấm công đồng nhất 100% trên cả 3 nền tảng (Android APK, Web di động /m/ và Trang Quản trị Web).",
-                                   "apkUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.24.apk",
-                                   "apkSha256":  "DF5E3F674F764A5F614B9A646310CC2732C95D9D5A79F4E57A62D4E4F267836A",
-                                   "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.24.apk",
-                                   "installerSha256":  "DF5E3F674F764A5F614B9A646310CC2732C95D9D5A79F4E57A62D4E4F267836A"
+                                   "latestVersion":  "1.0.25",
+                                   "publishedAt":  "2026-11-26",
+                                   "releaseNotes":  "Bản cập nhật v1.0.25 (Build 26): Khắc phục triệt để lỗi chọn nhưng không bỏ được hạng mục khi chụp ảnh trên cả Android APK và Web di động (/m/); sửa lỗi tách chuỗi dấu phẩy trong tên hạng mục mặc định, lưu tức thì khi tích/bỏ tích, bổ sung thanh thẻ đang chọn (kèm nút Bỏ chọn tất cả) và nút xóa nhanh ✕ ngay trên màn hình chụp ảnh; đồng thời bổ sung phóng to toàn màn hình bản đồ GPS và tính năng xoay ảnh 90° ở mọi nơi xem ảnh.",
+                                   "apkUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.25.apk",
+                                   "apkSha256":  "FA358981C6808FAD3CB3484FF7A2250604B413DBFEE5C0482D2AD9B61AB63A66",
+                                   "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.25.apk",
+                                   "installerSha256":  "FA358981C6808FAD3CB3484FF7A2250604B413DBFEE5C0482D2AD9B61AB63A66"
                                }
              }
 }
