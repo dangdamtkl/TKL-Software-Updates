@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-11-26T09:08:04.6161546+07:00",
+    "generatedAt":  "2026-11-26T09:23:57.5285358+07:00",
     "apps":  {
                  "TKLScreenPen":  {
                                       "appName":  "TKL Pen",
@@ -64,13 +64,13 @@
                                              },
                  "TKLCamera":  {
                                    "appName":  "TKL Camera (Android)",
-                                   "latestVersion":  "1.0.25",
+                                   "latestVersion":  "1.0.26",
                                    "publishedAt":  "2026-11-26",
-                                   "releaseNotes":  "Bản cập nhật v1.0.25 (Build 26): Khắc phục triệt để lỗi chọn nhưng không bỏ được hạng mục khi chụp ảnh trên cả Android APK và Web di động (/m/); sửa lỗi tách chuỗi dấu phẩy trong tên hạng mục mặc định, lưu tức thì khi tích/bỏ tích, bổ sung thanh thẻ đang chọn (kèm nút Bỏ chọn tất cả) và nút xóa nhanh ✕ ngay trên màn hình chụp ảnh; đồng thời bổ sung phóng to toàn màn hình bản đồ GPS và tính năng xoay ảnh 90° ở mọi nơi xem ảnh.",
-                                   "apkUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.25.apk",
-                                   "apkSha256":  "FA358981C6808FAD3CB3484FF7A2250604B413DBFEE5C0482D2AD9B61AB63A66",
-                                   "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.25.apk",
-                                   "installerSha256":  "FA358981C6808FAD3CB3484FF7A2250604B413DBFEE5C0482D2AD9B61AB63A66"
+                                   "releaseNotes":  "Bản cập nhật v1.0.26 (Build 27): Khắc phục toàn diện tính năng Zoom in / Zoom out khi chụp ảnh và quay phim trên cả Web di động (/m/ — iPhone Safari/PWA) và Android APK; bổ sung cử chỉ chụm/mở 2 ngón mượt trên iPhone, ưu tiên zoom phần cứng camera (hỗ trợ góc siêu rộng và zoom đến 5x–6x không crop trùng), thanh nút chọn nhanh (− / 1x / 2x / 3x / 5x / +) hoạt động cả khi đang quay video, chống chồng chéo lệnh zoom CameraX trên Android, đồng thời bổ sung chế độ Quay Video đóng dấu tem trực tiếp ngay trên Web di động (/m/).",
+                                   "apkUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.26.apk",
+                                   "apkSha256":  "92F7E81194F639E0C5F531D957E3144C4E999290CA1C7C81FA11F0C4C51AF376",
+                                   "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.26.apk",
+                                   "installerSha256":  "92F7E81194F639E0C5F531D957E3144C4E999290CA1C7C81FA11F0C4C51AF376"
                                }
              }
 }
