@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "generatedAt":  "2026-11-26T09:23:57.5285358+07:00",
+    "generatedAt":  "2026-11-26T10:54:53.5741258+07:00",
     "apps":  {
                  "TKLScreenPen":  {
                                       "appName":  "TKL Pen",
@@ -64,13 +64,13 @@
                                              },
                  "TKLCamera":  {
                                    "appName":  "TKL Camera (Android)",
-                                   "latestVersion":  "1.0.26",
+                                   "latestVersion":  "1.0.27",
                                    "publishedAt":  "2026-11-26",
-                                   "releaseNotes":  "Bản cập nhật v1.0.26 (Build 27): Khắc phục toàn diện tính năng Zoom in / Zoom out khi chụp ảnh và quay phim trên cả Web di động (/m/ — iPhone Safari/PWA) và Android APK; bổ sung cử chỉ chụm/mở 2 ngón mượt trên iPhone, ưu tiên zoom phần cứng camera (hỗ trợ góc siêu rộng và zoom đến 5x–6x không crop trùng), thanh nút chọn nhanh (− / 1x / 2x / 3x / 5x / +) hoạt động cả khi đang quay video, chống chồng chéo lệnh zoom CameraX trên Android, đồng thời bổ sung chế độ Quay Video đóng dấu tem trực tiếp ngay trên Web di động (/m/).",
-                                   "apkUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.26.apk",
-                                   "apkSha256":  "92F7E81194F639E0C5F531D957E3144C4E999290CA1C7C81FA11F0C4C51AF376",
-                                   "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.26.apk",
-                                   "installerSha256":  "92F7E81194F639E0C5F531D957E3144C4E999290CA1C7C81FA11F0C4C51AF376"
+                                   "releaseNotes":  "Bản cập nhật v1.0.27 (Build 28): Khắc phục triệt để lỗi NullPointerException (DateFormat.format trên đối tượng null) khi dừng quay và đóng dấu Video Media3 trên Android APK; dời thanh chọn Zoom (− / 0.6x / 1x / 2x / 3x / 5x / +) xuống thanh điều khiển để không đè lên tem góc ảnh và đồng bộ nút quay/dừng Video luôn giữ hình tròn chuẩn (biểu tượng dừng gọn ở giữa) trên cả Android APK và Web di động (/m/); đồng thời bao gồm toàn bộ nâng cấp Zoom 2 ngón/phần cứng, quay Video đóng dấu và tự xoay dấu khi cầm ngang trên iPhone Web (/m/).",
+                                   "apkUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.27.apk",
+                                   "apkSha256":  "70147A770C0CA9991895A16DDB139C9F23A5477A86291EF4552D6AECD3FB9D6A",
+                                   "installerUrl":  "https://github.com/dangdamtkl/TKL-Software-Updates/releases/download/latest/TKLCamera-v1.0.27.apk",
+                                   "installerSha256":  "70147A770C0CA9991895A16DDB139C9F23A5477A86291EF4552D6AECD3FB9D6A"
                                }
              }
 }
